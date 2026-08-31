@@ -325,11 +325,11 @@ OBJECTS.forEach(obj => {
 
 map.addLayer(cluster);
 
-// Fit bounds to all markers on load
-if (OBJECTS.length > 0) {
-  const bounds = L.latLngBounds(OBJECTS.map(o => [o.lat, o.lng]));
-  map.fitBounds(bounds, { padding: [30, 30], maxZoom: 8 });
-}
+// Open centered on the Netherlands, fully in view — regardless of the
+// handful of objects abroad (Caribbean, Spain, France, etc.), which would
+// otherwise force the initial view to zoom out to fit them too.
+const NL_BOUNDS = L.latLngBounds([50.72, 3.20], [53.65, 7.30]);
+map.fitBounds(NL_BOUNDS, { padding: [20, 20] });
 
 // --- Legend ---
 (function buildLegend() {

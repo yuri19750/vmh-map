@@ -92,6 +92,12 @@ def get_title_and_id(link: str, session: requests.Session):
     return data[0]["id"], data[0]["title"]["rendered"]
 
 
+# NOTE: "aanbod" is a custom post type, so the WordPress shortlink format
+# "/?p=<id>" does NOT resolve for these objects (it 404s — that query var
+# defaults to post_type=post). Always use the real permalink (the `link`
+# already scraped from the archive page) instead of reconstructing one.
+
+
 def get_coords(link: str, session: requests.Session):
     html = fetch(link, session)
     m = MARKER_RE.search(html)
@@ -111,7 +117,7 @@ def process_object(link: str, makelaar_slug: str, session: requests.Session):
             "title": title,
             "lat": lat,
             "lng": lng,
-            "link": f"{BASE_URL}/?p={obj_id}",
+            "link": link,  # real permalink, not the broken "?p=" shortlink
             "makelaar": MAKELAAR_NAMES.get(makelaar_slug, makelaar_slug),
         }
     except Exception as exc:  # noqa: BLE001
