@@ -1,5 +1,4 @@
 
-Update data · PY
 #!/usr/bin/env python3
 """
 Ververst data/objects.json met alle objecten die daadwerkelijk op
