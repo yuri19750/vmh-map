@@ -1,259 +1,11 @@
 [
   {
-    "id": "8844",
-    "title": "Mooi gelegen (feest)café",
-    "lat": 52.2517596,
-    "lng": 6.156201,
-    "link": "https://vmh-horeca.nl/aanbod/mooi-gelegen-feestcafe/",
-    "makelaar": "Horecapachter"
-  },
-  {
-    "id": "11382",
-    "title": "Cafetaria De Verse Pieper Nuenen",
-    "lat": 51.4728148,
-    "lng": 5.5670633,
-    "link": "https://vmh-horeca.nl/aanbod/cafetaria-de-verse-pieper-nuenen-2/",
-    "makelaar": "ABéMA"
-  },
-  {
-    "id": "7938",
-    "title": "Horeca met campingwinkel te pacht op vakantiepark",
-    "lat": 52.5168245,
-    "lng": 6.413599,
-    "link": "https://vmh-horeca.nl/aanbod/horeca-met-campingwinkel-te-pacht-op-vakantiepark/",
-    "makelaar": "Horecapachter"
-  },
-  {
-    "id": "11643",
-    "title": "New York Pizza Heythuysen",
-    "lat": 51.2492073,
-    "lng": 5.8937271,
-    "link": "https://vmh-horeca.nl/aanbod/new-york-pizza-heythuysen/",
+    "id": "11455",
+    "title": "Sfeervolle bar en restaurant met ruim terras",
+    "lat": 52.2680061,
+    "lng": 4.7475874,
+    "link": "https://vmh-horeca.nl/aanbod/sfeervolle-bar-en-restaurant-met-ruim-terras-in-het-centrum/",
     "makelaar": "HVAB"
-  },
-  {
-    "id": "7260",
-    "title": "Restaurant &#8217;t Kleijn Geluck Son en Breugel",
-    "lat": 51.5101556,
-    "lng": 5.4918839,
-    "link": "https://vmh-horeca.nl/aanbod/restaurant-t-kleijn-geluck-son-en-breugel/",
-    "makelaar": "ABéMA"
-  },
-  {
-    "id": "6862",
-    "title": "Groot Perceel grond met nieuwbouw woonontwikkelingsmogelijkheden (Ook Horeca)",
-    "lat": 51.4455028,
-    "lng": 6.025765,
-    "link": "https://vmh-horeca.nl/aanbod/groot-perceel-grond-met-nieuwbouw-woonontwikkelingsmogelijkheden-ook-horeca/",
-    "makelaar": "ABéMA"
-  },
-  {
-    "id": "11222",
-    "title": "Rooftopbar/ restaurant Eindhoven centrum (Nieuw te realiseren)",
-    "lat": 51.4394282,
-    "lng": 5.47473,
-    "link": "https://vmh-horeca.nl/aanbod/rooftopbar-restaurant-eindhoven-centrum-nieuw-te-realiseren-2/",
-    "makelaar": "ABéMA"
-  },
-  {
-    "id": "11100",
-    "title": "Volledig ingerichte horecaruimte",
-    "lat": 52.7693304,
-    "lng": 4.6642562,
-    "link": "https://vmh-horeca.nl/aanbod/volledig-ingerichte-horecaruimte-2/",
-    "makelaar": "HVAB"
-  },
-  {
-    "id": "7178",
-    "title": "Horeca op prachtige zichtlocatie in Kampen",
-    "lat": 52.56350639999999,
-    "lng": 5.911260200000015,
-    "link": "https://vmh-horeca.nl/aanbod/horeca-op-prachtige-zichtlocatie-in-kampen/",
-    "makelaar": "Horecapachter"
-  },
-  {
-    "id": "8006",
-    "title": "Casco Horecaruimte in het centrum",
-    "lat": 52.6690939,
-    "lng": 4.7015827,
-    "link": "https://vmh-horeca.nl/aanbod/casco-horecaruimte-in-het-centrum/",
-    "makelaar": "HVAB"
-  },
-  {
-    "id": "11163",
-    "title": "Mangerie &#038; B&#038;B Weselo Mol (België)",
-    "lat": 51.1930113,
-    "lng": 5.2052565,
-    "link": "https://vmh-horeca.nl/aanbod/mangerie-bb-weselo-mol-belgie-2/",
-    "makelaar": "ABéMA"
-  },
-  {
-    "id": "9706",
-    "title": "Gevestigde afhaal- en bezorgzaak Wok-inn",
-    "lat": 52.3507193,
-    "lng": 4.8529621,
-    "link": "https://vmh-horeca.nl/aanbod/gevestigde-afhaal-en-bezorgzaak-wok-inn-2/",
-    "makelaar": "HVAB"
-  },
-  {
-    "id": "8653",
-    "title": "Drechtsteden | Grandcafé / Brasserie met super gezellig groot terras!",
-    "lat": 51.823325646174,
-    "lng": 4.7081173445801,
-    "link": "https://vmh-horeca.nl/aanbod/drechtsteden-grandcafe-brasserie-met-super-gezellig-groot-terras/",
-    "makelaar": "MIH"
-  },
-  {
-    "id": "11547",
-    "title": "Eeterij Zeeuwse Jongen Zierikzee",
-    "lat": 51.646758,
-    "lng": 3.918292,
-    "link": "https://vmh-horeca.nl/aanbod/eeterij-zeeuwse-jongen-zierikzee/",
-    "makelaar": "Zeeuwse Horeca Zaken"
-  },
-  {
-    "id": "7771",
-    "title": "Duitsland | Hotel",
-    "lat": 51.165691,
-    "lng": 10.451526,
-    "link": "https://vmh-horeca.nl/aanbod/duitsland-hotel/",
-    "makelaar": "Horecapachter"
-  },
-  {
-    "id": "11226",
-    "title": "Wonen en ondernemen in Frankrijk | Instapklare B&#038;B met gîtes, restaurant, zwembad en ruime privéwoning",
-    "lat": 45.0632447,
-    "lng": 2.4137504,
-    "link": "https://vmh-horeca.nl/aanbod/wonen-en-ondernemen-in-frankrijk-instapklare-bb-met-gites-restaurant-zwembad-en-ruime-privewoning/",
-    "makelaar": "Horecapachter"
-  },
-  {
-    "id": "9902",
-    "title": "Makkum: Cafetaria/Lunchroom de Halte",
-    "lat": 53.0552606,
-    "lng": 5.4028498,
-    "link": "https://vmh-horeca.nl/aanbod/makkum-cafetaria-lunchroom-de-halte/",
-    "makelaar": "Edens Makelaars"
-  },
-  {
-    "id": "9290",
-    "title": "Mooi gezellig ingerichte ijssalon, lunchroom met een gezellig terras aan de voorzijde",
-    "lat": 51.9187485,
-    "lng": 5.8456254,
-    "link": "https://vmh-horeca.nl/aanbod/mooi-gezellig-ingerichte-ijssalon-lunchroom-met-een-gezellig-terras-aan-de-voorzijde/",
-    "makelaar": "Horecapachter"
-  },
-  {
-    "id": "10870",
-    "title": "Zoetermeer | ter overname moderne kiosk &#038; onderneming De Smulhoek",
-    "lat": 52.0510126,
-    "lng": 4.5007041,
-    "link": "https://vmh-horeca.nl/aanbod/zoetermeer-ter-overname-moderne-kiosk-onderneming-de-smulhoek/",
-    "makelaar": "MIH"
-  },
-  {
-    "id": "7188",
-    "title": "Restaurant gelegen in regio De Kempen",
-    "lat": 51.4795381,
-    "lng": 5.4350362,
-    "link": "https://vmh-horeca.nl/aanbod/restaurant-gelegen-in-regio-de-kempen/",
-    "makelaar": "ABéMA"
-  },
-  {
-    "id": "9906",
-    "title": "Lunchroom te koop in Dokkum – De Koffiepot",
-    "lat": 53.3266758,
-    "lng": 5.9999223,
-    "link": "https://vmh-horeca.nl/aanbod/lunchroom-te-koop-in-dokkum-de-koffiepot/",
-    "makelaar": "Edens Makelaars"
-  },
-  {
-    "id": "11212",
-    "title": "Strandpaviljoen Bij Karel te Oostkapelle",
-    "lat": 51.588,
-    "lng": 3.5375,
-    "link": "https://vmh-horeca.nl/aanbod/strandpaviljoen-bij-karel-te-oostkapelle/",
-    "makelaar": "Zeeuwse Horeca Zaken"
-  },
-  {
-    "id": "8072",
-    "title": "Bekende discotheek in de Koog (Texel) met veel mogelijkheden",
-    "lat": 53.099388,
-    "lng": 4.762118,
-    "link": "https://vmh-horeca.nl/aanbod/casco-discotheek-de-toekomst/",
-    "makelaar": "HVAB"
-  },
-  {
-    "id": "7842",
-    "title": "Groot restaurant, 500m2, met speeltuin en zaalverhuur",
-    "lat": 52.4892309,
-    "lng": 6.4240982,
-    "link": "https://vmh-horeca.nl/aanbod/restaurant-pannenkoekenhuis-300m2-minimaal-200-zitplaatsen-en-groot-terras/",
-    "makelaar": "Horecapachter"
-  },
-  {
-    "id": "9994",
-    "title": "Pizzeria te huur Workum | Terras 60 plaatsen | De Merk",
-    "lat": 52.9794096,
-    "lng": 5.443276,
-    "link": "https://vmh-horeca.nl/aanbod/pizzeria-te-huur-workum-terras-60-plaatsen-de-merk/",
-    "makelaar": "Edens Makelaars"
-  },
-  {
-    "id": "11386",
-    "title": "Café starten in Arnhem? Horecalocatie nabij Korenmarkt beschikbaar",
-    "lat": 51.981899,
-    "lng": 5.903394,
-    "link": "https://vmh-horeca.nl/aanbod/cafe-starten-in-arnhem-horecalocatie-nabij-korenmarkt-beschikbaar/",
-    "makelaar": "Horecapachter"
-  },
-  {
-    "id": "9932",
-    "title": "Te huur in Lemmer &#8211; Casco Horecapand met terras a/h water",
-    "lat": 52.8435735,
-    "lng": 5.71135,
-    "link": "https://vmh-horeca.nl/aanbod/te-huur-in-lemmer-casco-horecapand-met-terras-a-h-water/",
-    "makelaar": "Edens Makelaars"
-  },
-  {
-    "id": "7221",
-    "title": "Restaria &#8216;T Pannetje Nederweert",
-    "lat": 51.2829289,
-    "lng": 5.7522557,
-    "link": "https://vmh-horeca.nl/aanbod/restaria-t-pannetje-nederweert/",
-    "makelaar": "ABéMA"
-  },
-  {
-    "id": "11029",
-    "title": "Horecapand met bovenwoning te koop in Appingedam centrum",
-    "lat": 53.320353,
-    "lng": 6.8575527,
-    "link": "https://vmh-horeca.nl/aanbod/casco-horecapand-de-keuken-van-india-appingedam/",
-    "makelaar": "Edens Makelaars"
-  },
-  {
-    "id": "8145",
-    "title": "Multifunctioneel horeca- en/of leisure pand op super A1 locatie in het centrum van Hengelo van maar liefst ca 1200m2.",
-    "lat": 52.2645258,
-    "lng": 6.7935169,
-    "link": "https://vmh-horeca.nl/aanbod/multifunctioneel-horeca-en-of-leisure-pand-op-super-a1-locatie-in-het-centrum-van-hengelo-van-maar-liefst-ca-1200m2/",
-    "makelaar": "Horecapachter"
-  },
-  {
-    "id": "8454",
-    "title": "Rhenoy |West Betuwe Cafetaria Route88",
-    "lat": 51.8808241,
-    "lng": 5.1508632,
-    "link": "https://vmh-horeca.nl/aanbod/west-betuwe-cafetaria-route88/",
-    "makelaar": "MIH"
-  },
-  {
-    "id": "10840",
-    "title": "Leiden | Hotspot Central Gastrohome – Unieke horecalocatie tegenover Leiden Centraal",
-    "lat": 52.1648996,
-    "lng": 4.4838292,
-    "link": "https://vmh-horeca.nl/aanbod/leiden-hotspot-central-gastrohome-unieke-horecalocatie-tegenover-leiden-centraal/",
-    "makelaar": "MIH"
   },
   {
     "id": "7535",
@@ -264,734 +16,6 @@
     "makelaar": "ABéMA"
   },
   {
-    "id": "9926",
-    "title": "Theater kwartier",
-    "lat": 52.518537,
-    "lng": 5.471422,
-    "link": "https://vmh-horeca.nl/aanbod/theater-kwartier/",
-    "makelaar": "MIH"
-  },
-  {
-    "id": "7944",
-    "title": "Nieuwe vestiging van Burger Business in Almere Buiten",
-    "lat": 52.393502,
-    "lng": 5.279939,
-    "link": "https://vmh-horeca.nl/aanbod/nieuwe-vestiging-van-burger-business-in-almere-buiten/",
-    "makelaar": "Horecapachter"
-  },
-  {
-    "id": "11405",
-    "title": "Bouw mee aan een succesvolle horecalocatie op een prachtig vakantiepark",
-    "lat": 51.9793058,
-    "lng": 5.9117582,
-    "link": "https://vmh-horeca.nl/aanbod/bouw-mee-aan-een-succesvolle-horecalocatie-op-een-prachtig-vakantiepark/",
-    "makelaar": "Horecapachter"
-  },
-  {
-    "id": "8462",
-    "title": "Gezocht Pannenkoekrestaurant in bosrijke omgeving!",
-    "lat": 52.0207975,
-    "lng": 4.4937836,
-    "link": "https://vmh-horeca.nl/aanbod/gezocht-pannenkoekrestaurant-in-bosrijke-omgeving/",
-    "makelaar": "MIH"
-  },
-  {
-    "id": "9924",
-    "title": "Strandpaviljoen",
-    "lat": 52.0012836,
-    "lng": 4.1670315,
-    "link": "https://vmh-horeca.nl/aanbod/strandpaviljoen/",
-    "makelaar": "MIH"
-  },
-  {
-    "id": "8115",
-    "title": "Keurige cafetaria met ruime woning",
-    "lat": 52.3834452,
-    "lng": 4.6356486,
-    "link": "https://vmh-horeca.nl/aanbod/keurige-cafetaria-met-ruime-woning-2/",
-    "makelaar": "HVAB"
-  },
-  {
-    "id": "7647",
-    "title": "Frankrijk | Alpe d&#8217;Huez | Restaurant, Pizzeria, Bar",
-    "lat": 45.0549536,
-    "lng": 6.03041,
-    "link": "https://vmh-horeca.nl/aanbod/frankrijk-alpe-dhuez-restaurant-pizzeria-bar/",
-    "makelaar": "Horecapachter"
-  },
-  {
-    "id": "11254",
-    "title": "Foodmaster Burgum &#8211; Open deze zomer nog&#8230;..",
-    "lat": 53.1920638,
-    "lng": 5.9923729,
-    "link": "https://vmh-horeca.nl/aanbod/foodmaster-burgum-open-deze-zomer-nog/",
-    "makelaar": "Edens Makelaars"
-  },
-  {
-    "id": "8044",
-    "title": "Beleggingspand in het centrum",
-    "lat": 52.8359763,
-    "lng": 4.6937636,
-    "link": "https://vmh-horeca.nl/aanbod/beleggingspand-in-het-centrum/",
-    "makelaar": "HVAB"
-  },
-  {
-    "id": "8060",
-    "title": "Hotel met appartement, restaurant en woning op Texel",
-    "lat": 53.0256841,
-    "lng": 4.7512915,
-    "link": "https://vmh-horeca.nl/aanbod/hotel-met-restaurant-op-texel/",
-    "makelaar": "HVAB"
-  },
-  {
-    "id": "7916",
-    "title": "Casco leisureruimte van 800m2",
-    "lat": 51.9264425,
-    "lng": 6.0757034,
-    "link": "https://vmh-horeca.nl/aanbod/casco-leisureruimte-van-800m2/",
-    "makelaar": "Horecapachter"
-  },
-  {
-    "id": "11653",
-    "title": "Recreatiepark en evenementenlocatie &#8211; &#8217;t Wylde Pad",
-    "lat": 53.2443233,
-    "lng": 6.0683089,
-    "link": "https://vmh-horeca.nl/aanbod/recreatiepark-en-evenementenlocatie-t-wylde-pad/",
-    "makelaar": "Edens Makelaars"
-  },
-  {
-    "id": "9141",
-    "title": "Alblasserwaard te koop zeer goedlopend brasserie.",
-    "lat": 51.9253547,
-    "lng": 4.4304234,
-    "link": "https://vmh-horeca.nl/aanbod/alblasserwaard-te-koop-zeer-goedlopend-brasserie-2/",
-    "makelaar": "MIH"
-  },
-  {
-    "id": "11384",
-    "title": "Casco Horecaruimte Oisterwijk",
-    "lat": 51.5784925,
-    "lng": 5.1814005,
-    "link": "https://vmh-horeca.nl/aanbod/spare-rib-express-oisterwijk-2/",
-    "makelaar": "ABéMA"
-  },
-  {
-    "id": "9425",
-    "title": "Restaurant Il Colosseo Eindhoven",
-    "lat": 51.4413437,
-    "lng": 5.5016244,
-    "link": "https://vmh-horeca.nl/aanbod/restaurant-il-colosseo-eindhoven-2/",
-    "makelaar": "ABéMA"
-  },
-  {
-    "id": "8002",
-    "title": "Horecapand (deels verhuurd) met herontwikkelings- mogelijkheden",
-    "lat": 52.8885318,
-    "lng": 4.8029986,
-    "link": "https://vmh-horeca.nl/aanbod/cafebedrijf-met-terras/",
-    "makelaar": "HVAB"
-  },
-  {
-    "id": "7359",
-    "title": "Le Marconnes Camping &#8211; Hotel &#8211; Gite &#8211; Restaurant  (Frankrijk)",
-    "lat": 44.839188,
-    "lng": 3.923447,
-    "link": "https://vmh-horeca.nl/aanbod/le-marconnes-camping-hotel-gite-restaurant-frankrijk/",
-    "makelaar": "ABéMA"
-  },
-  {
-    "id": "11410",
-    "title": "Horecalocatie voor snelgroeiende hamburgerformule in Arnhem",
-    "lat": 51.9793058,
-    "lng": 5.9117582,
-    "link": "https://vmh-horeca.nl/aanbod/horecalocatie-voor-snelgroeiende-hamburgerformule-in-arnhem/",
-    "makelaar": "Horecapachter"
-  },
-  {
-    "id": "7920",
-    "title": "Prachtig, groot en historisch pand met veel mogelijkheden &#8211; circa 260m2 en ruim terras",
-    "lat": 51.9728359,
-    "lng": 5.7331585,
-    "link": "https://vmh-horeca.nl/aanbod/prachtig-groot-en-historisch-pand-met-veel-mogelijkheden-circa-260m2-en-ruim-terras/",
-    "makelaar": "Horecapachter"
-  },
-  {
-    "id": "11143",
-    "title": "Caribisch gebied | Exclusieve investeringskans of een uniek kans om dit (jaarrond) goedlopende resort te exploiteren. Ligging op een van de populaire ABC eiland",
-    "lat": 21.4691137,
-    "lng": -78.6568942,
-    "link": "https://vmh-horeca.nl/aanbod/caribisch-gebied-exclusieve-investeringskans-of-een-uniek-kans-om-dit-jaarrond-goedlopende-resort-te-exploiteren-ligging-op-een-van-de-populaire-abc-eiland/",
-    "makelaar": "MIH"
-  },
-  {
-    "id": "11139",
-    "title": "Eetcafé met ruim terras aan de haven",
-    "lat": 52.7706595,
-    "lng": 5.1073586,
-    "link": "https://vmh-horeca.nl/aanbod/eetcafe-met-ruim-terras-aan-de-haven-2/",
-    "makelaar": "HVAB"
-  },
-  {
-    "id": "7497",
-    "title": "Unieke ontwikkellocatie nabij de Strabrechtse Heide – Someren (Zuidoost Brabant)",
-    "lat": 51.3871524,
-    "lng": 5.6723233,
-    "link": "https://vmh-horeca.nl/aanbod/2-percelen-grond-t-b-v-horeca-ontwikkeling-nieuwbouw-someren/",
-    "makelaar": "ABéMA"
-  },
-  {
-    "id": "9160",
-    "title": "Prachtig stijlvol en gezellig ingerichte gastrobar / restaurant met een gezellig terras aan de voorzijde",
-    "lat": 51.9823261,
-    "lng": 5.915172,
-    "link": "https://vmh-horeca.nl/aanbod/prachtig-stijlvol-en-gezellig-ingerichte-gastrobar-restaurant-met-een-gezellig-terras-aan-de-voorzijde/",
-    "makelaar": "Horecapachter"
-  },
-  {
-    "id": "9910",
-    "title": "Cafetaria te koop in Jistrum – Instapklaar met terras naast sportpark",
-    "lat": 53.210928,
-    "lng": 6.065254,
-    "link": "https://vmh-horeca.nl/aanbod/cafetaria-te-koop-in-jistrum-instapklaar-met-terras-naast-sportpark/",
-    "makelaar": "Edens Makelaars"
-  },
-  {
-    "id": "11625",
-    "title": "High Tea &#038; Lunch Boutique No 38 Hapert",
-    "lat": 51.3689495,
-    "lng": 5.2520925,
-    "link": "https://vmh-horeca.nl/aanbod/high-tea-lunch-boutique-no-38-hapert/",
-    "makelaar": "HVAB"
-  },
-  {
-    "id": "11202",
-    "title": "Restaurant Nopal te Vlissingen",
-    "lat": 51.4423,
-    "lng": 3.573,
-    "link": "https://vmh-horeca.nl/aanbod/restaurant-nopal-te-vlissingen/",
-    "makelaar": "Zeeuwse Horeca Zaken"
-  },
-  {
-    "id": "8987",
-    "title": "Pizzeria met OG in het centrum",
-    "lat": 52.7862755,
-    "lng": 4.7956938,
-    "link": "https://vmh-horeca.nl/aanbod/pizzeria-met-og-in-het-centrum-3/",
-    "makelaar": "HVAB"
-  },
-  {
-    "id": "11023",
-    "title": "Restaurant te pacht van een hotel in de Franse Alpen",
-    "lat": 45.0923807,
-    "lng": 6.0683611,
-    "link": "https://vmh-horeca.nl/aanbod/restaurant-te-pacht-van-een-hotel-in-de-franse-alpen/",
-    "makelaar": "Horecapachter"
-  },
-  {
-    "id": "7947",
-    "title": "Bezorg- en Takeaway restaurant annex lunchroom &#8211; (Deel-)Financiering mogelijk!",
-    "lat": 52.2224399,
-    "lng": 6.8933674,
-    "link": "https://vmh-horeca.nl/aanbod/bezorg-en-takeaway-restaurant-annex-lunchroom-deel-financiering-mogelijk/",
-    "makelaar": "Horecapachter"
-  },
-  {
-    "id": "11324",
-    "title": "Napolitaanse Pizzeria Cluys West, eventueel met bovenwoning",
-    "lat": 51.53,
-    "lng": 3.4418,
-    "link": "https://vmh-horeca.nl/aanbod/napolitaanse-pizzeria-cluys-west-eventueel-met-bovenwoning/",
-    "makelaar": "Zeeuwse Horeca Zaken"
-  },
-  {
-    "id": "11539",
-    "title": "High Tea &#038; Lunch Boutique No 38 Hapert",
-    "lat": 51.3689495,
-    "lng": 5.2520925,
-    "link": "https://vmh-horeca.nl/aanbod/high-tea-lunch-boutique-no-38-hapert-2/",
-    "makelaar": "ABéMA"
-  },
-  {
-    "id": "7778",
-    "title": "Duitsland | Hotel in ontwikkeling met 150 kamers, een bungalowpark en een golfbaan",
-    "lat": 51.165691,
-    "lng": 10.451526,
-    "link": "https://vmh-horeca.nl/aanbod/duitsland-hotel-in-ontwikkeling-met-150-kamers-een-bungalowpark-en-een-golfbaan/",
-    "makelaar": "Horecapachter"
-  },
-  {
-    "id": "10838",
-    "title": "Infinity Dranken Slijterij Nuenen",
-    "lat": 51.4730192,
-    "lng": 5.5462589,
-    "link": "https://vmh-horeca.nl/aanbod/infinity-dranken-slijterij-nuenen-2/",
-    "makelaar": "ABéMA"
-  },
-  {
-    "id": "9908",
-    "title": "Lunchroom ter overname in Leeuwarden centrum",
-    "lat": 53.1989633,
-    "lng": 5.7811961,
-    "link": "https://vmh-horeca.nl/aanbod/lunchroom-ter-overname-in-leeuwarden-centrum/",
-    "makelaar": "Edens Makelaars"
-  },
-  {
-    "id": "9650",
-    "title": "Afhaal- en bezorgzaak op goede locatie in Haarlem",
-    "lat": 52.4089445,
-    "lng": 4.650911,
-    "link": "https://vmh-horeca.nl/aanbod/afhaal-en-bezorgzaak-op-goede-locatie-in-haarlem-2/",
-    "makelaar": "HVAB"
-  },
-  {
-    "id": "9814",
-    "title": "Bolsward: Eet en Chauffeurs Café",
-    "lat": 53.0683149,
-    "lng": 5.5069614,
-    "link": "https://vmh-horeca.nl/aanbod/bolsward-eet-chauffeurs-cafe/",
-    "makelaar": "Edens Makelaars"
-  },
-  {
-    "id": "9878",
-    "title": "Viszaak te koop Leeuwarden – Schootstra visspecialist op A1 locatie",
-    "lat": 53.2012334,
-    "lng": 5.7999133,
-    "link": "https://vmh-horeca.nl/aanbod/goedlopende-viszaak-te-koop-in-leeuwarden/",
-    "makelaar": "Edens Makelaars"
-  },
-  {
-    "id": "11244",
-    "title": "Karakteristiek restaurant op toplocatie",
-    "lat": 52.6439918,
-    "lng": 5.0520772,
-    "link": "https://vmh-horeca.nl/aanbod/karakteristiek-restaurant-op-toplocatie-2/",
-    "makelaar": "HVAB"
-  },
-  {
-    "id": "9925",
-    "title": "Ons Plezier Cafetaria",
-    "lat": 51.771621,
-    "lng": 4.446888,
-    "link": "https://vmh-horeca.nl/aanbod/ons-plezier-cafetaria/",
-    "makelaar": "MIH"
-  },
-  {
-    "id": "9886",
-    "title": "Langweer: Brasserie AnderS",
-    "lat": 52.9587161,
-    "lng": 5.7233394,
-    "link": "https://vmh-horeca.nl/aanbod/langweer-brasserie-anders/",
-    "makelaar": "Edens Makelaars"
-  },
-  {
-    "id": "8870",
-    "title": "Café te koop in Arnhem | Aan de Korenmarkt met terras",
-    "lat": 51.9793058,
-    "lng": 5.9117582,
-    "link": "https://vmh-horeca.nl/aanbod/cafe-aan-het-uitgaansplein-in-het-centrum-van-arnhem/",
-    "makelaar": "Horecapachter"
-  },
-  {
-    "id": "11613",
-    "title": "Ruim horecapand met binnentuin en twee appartementen",
-    "lat": 52.5249106,
-    "lng": 4.7083449,
-    "link": "https://vmh-horeca.nl/aanbod/ruim-horecapand-met-binnentuin-en-twee-appartementen-2/",
-    "makelaar": "HVAB"
-  },
-  {
-    "id": "7959",
-    "title": "Horeca met bowlingbanen op een groot vakantiepark in Overijssel",
-    "lat": 52.5079076,
-    "lng": 6.4425769,
-    "link": "https://vmh-horeca.nl/aanbod/horeca-met-bowlingbanen-te-pacht-op-een-groot-vakantiepark-in-overijssel/",
-    "makelaar": "Horecapachter"
-  },
-  {
-    "id": "11627",
-    "title": "Cafetaria/snackbar in centrum",
-    "lat": 52.7872724,
-    "lng": 4.7966326,
-    "link": "https://vmh-horeca.nl/aanbod/cafetaria-snackbar-in-centrum/",
-    "makelaar": "HVAB"
-  },
-  {
-    "id": "7725",
-    "title": "Productiekeuken",
-    "lat": 51.9851034,
-    "lng": 5.8987296,
-    "link": "https://vmh-horeca.nl/aanbod/productiekeuken-3/",
-    "makelaar": "Horecapachter"
-  },
-  {
-    "id": "9894",
-    "title": "Emmen, 2 prachtige horecazaken in de stille verkoop.",
-    "lat": 52.7861939,
-    "lng": 6.891697,
-    "link": "https://vmh-horeca.nl/aanbod/emmen-2-prachtige-horecazaken-in-de-stille-verkoop/",
-    "makelaar": "Edens Makelaars"
-  },
-  {
-    "id": "9572",
-    "title": "Grote horecalocatie van ca. 350m2 tegenover de ingang van Wildlands Adventure Zoo in Emmen",
-    "lat": 52.7833107,
-    "lng": 6.893187,
-    "link": "https://vmh-horeca.nl/aanbod/grote-horecalocatie-van-ca-350m2-tegenover-de-ingang-van-wildlands-adventure-zoo-in-emmen/",
-    "makelaar": "Horecapachter"
-  },
-  {
-    "id": "8492",
-    "title": "Chinees Restaurant Te Koop",
-    "lat": 51.8522596,
-    "lng": 4.8872078,
-    "link": "https://vmh-horeca.nl/aanbod/chinees-aziatisch-restaurant-te-koop/",
-    "makelaar": "MIH"
-  },
-  {
-    "id": "8464",
-    "title": "Duitsland | ik vertrek voor hotel",
-    "lat": 50.283333,
-    "lng": 7.0,
-    "link": "https://vmh-horeca.nl/aanbod/duitsland-ik-vertrek-voor-hotel/",
-    "makelaar": "MIH"
-  },
-  {
-    "id": "7406",
-    "title": "Gezocht: horecalocatie in Gelderland | Restaurant gezocht",
-    "lat": 52.1401901,
-    "lng": 5.5841509,
-    "link": "https://vmh-horeca.nl/aanbod/gezocht-horecalocatie/",
-    "makelaar": "Horecapachter"
-  },
-  {
-    "id": "9812",
-    "title": "Ureterp Friesland: Café It Alde Ste",
-    "lat": 53.0952319,
-    "lng": 6.1731672,
-    "link": "https://vmh-horeca.nl/aanbod/ureterp-friesland-cafe-it-alde-ste/",
-    "makelaar": "Edens Makelaars"
-  },
-  {
-    "id": "8617",
-    "title": "`Te koop Daytona motorhotel Eifelgebied",
-    "lat": 50.0485862,
-    "lng": 6.1325054,
-    "link": "https://vmh-horeca.nl/aanbod/te-koop-daytona-motorhotel-eifelgebied/",
-    "makelaar": "MIH"
-  },
-  {
-    "id": "11584",
-    "title": "Unieke horecakans in hartje Arnhem – Café De Buik ter overname!",
-    "lat": 51.9820774,
-    "lng": 5.9043371,
-    "link": "https://vmh-horeca.nl/aanbod/unieke-horecakans-in-hartje-arnhem-cafe-de-buik-ter-overname/",
-    "makelaar": "Horecapachter"
-  },
-  {
-    "id": "7940",
-    "title": "Nieuw te realiseren vestiging van zeer succesvolle bezorg- en afhaalformule Burger Business",
-    "lat": 52.1941001,
-    "lng": 6.0054671,
-    "link": "https://vmh-horeca.nl/aanbod/nieuw-te-realiseren-vestiging-van-zeer-succesvolle-bezorg-en-afhaalformule-burger-business/",
-    "makelaar": "Horecapachter"
-  },
-  {
-    "id": "11464",
-    "title": "Eetcafe de Moarkswal te Aldtsjerk",
-    "lat": 53.2660453,
-    "lng": 5.8867237,
-    "link": "https://vmh-horeca.nl/aanbod/eetcafe-de-moarkswal-te-aldtsjerk/",
-    "makelaar": "Edens Makelaars"
-  },
-  {
-    "id": "7878",
-    "title": "Prachtig bedrijf gelegen in het gezellige Nijmegen met groot terras",
-    "lat": 51.8465931,
-    "lng": 5.8658743,
-    "link": "https://vmh-horeca.nl/aanbod/prachtig-bedrijf-gelegen-in-het-gezellige-nijmegen-met-groot-terras/",
-    "makelaar": "Horecapachter"
-  },
-  {
-    "id": "8780",
-    "title": "Iconisch horecapand met 3 verdiepingen op de Grote Markt in Almere",
-    "lat": 52.372034,
-    "lng": 5.2181328,
-    "link": "https://vmh-horeca.nl/aanbod/iconisch-horecapand-met-3-verdiepingen-op-de-grote-markt-in-almere-2/",
-    "makelaar": "HVAB"
-  },
-  {
-    "id": "8020",
-    "title": "Chinees-Indonesisch restaurant in het centrum",
-    "lat": 52.7870955,
-    "lng": 4.7961517,
-    "link": "https://vmh-horeca.nl/aanbod/chinees-indonesisch-restaurant-in-het-centrum/",
-    "makelaar": "HVAB"
-  },
-  {
-    "id": "11500",
-    "title": "B&amp;B Meerzigt Eastermar &#8211; Wonen en Werken",
-    "lat": 53.1733641,
-    "lng": 6.0558027,
-    "link": "https://vmh-horeca.nl/aanbod/bb-meerzigt-eastermar-wonen-en-werken/",
-    "makelaar": "Edens Makelaars"
-  },
-  {
-    "id": "9985",
-    "title": "Restaurant te koop in Arnhem | Instapklaar aan de Markt",
-    "lat": 51.9782685,
-    "lng": 5.9097943,
-    "link": "https://vmh-horeca.nl/aanbod/toplocatie-instapklaar-en-geschikt-voor-diverse-concepten/",
-    "makelaar": "Horecapachter"
-  },
-  {
-    "id": "11649",
-    "title": "Sushi Express afhaal en bezorgrestaurant Eindhoven",
-    "lat": 51.4430591,
-    "lng": 5.4551131,
-    "link": "https://vmh-horeca.nl/aanbod/sushi-express-afhaal-en-bezorgrestaurant-eindhoven/",
-    "makelaar": "HVAB"
-  },
-  {
-    "id": "11087",
-    "title": "Noordwijk aan zee | horecapand met terras aan de Koningin Wilhelmina Boulevard",
-    "lat": 52.2459024,
-    "lng": 4.4314177,
-    "link": "https://vmh-horeca.nl/aanbod/noordwijk-aan-zee-horecapand-met-terras-aan-de-koningin-wilhelmina-boulevard/",
-    "makelaar": "MIH"
-  },
-  {
-    "id": "11074",
-    "title": "Charmant boetiekhotel met restaurant en bedrijfswoning te koop in Spanje",
-    "lat": 36.7442514,
-    "lng": -3.9045151,
-    "link": "https://vmh-horeca.nl/aanbod/charmant-boetiekhotel-met-restaurant-en-bedrijfswoning-te-koop-in-spanje/",
-    "makelaar": "Horecapachter"
-  },
-  {
-    "id": "11489",
-    "title": "Exclusieve horecalocatie met bedrijfswoning en mogelijkheden voor een B&#038;B",
-    "lat": 52.0288417,
-    "lng": 6.3943244,
-    "link": "https://vmh-horeca.nl/aanbod/exclusieve-horecalocatie-met-bedrijfswoning-en-mogelijkheden-voor-een-bb/",
-    "makelaar": "Horecapachter"
-  },
-  {
-    "id": "8615",
-    "title": "Montfoort | pizzeria met bezorgdienst te koop",
-    "lat": 52.04534,
-    "lng": 4.95038,
-    "link": "https://vmh-horeca.nl/aanbod/montfoort-pizzeria-met-bezorgdienst-te-koop/",
-    "makelaar": "MIH"
-  },
-  {
-    "id": "9876",
-    "title": "Hotel te koop Ameland – Hotel Restaurant Molenzicht in Nes",
-    "lat": 53.446912,
-    "lng": 5.7747611,
-    "link": "https://vmh-horeca.nl/aanbod/hotel-te-koop-ameland-hotel-restaurant-molenzicht-in-nes/",
-    "makelaar": "Edens Makelaars"
-  },
-  {
-    "id": "9898",
-    "title": "Cafetaria te koop in Ureterp – It Alde Ste &amp; ’t Bôlehûs",
-    "lat": 53.0952319,
-    "lng": 6.1731672,
-    "link": "https://vmh-horeca.nl/aanbod/cafetaria-te-koop-in-ureterp-it-alde-ste-t-bolehus/",
-    "makelaar": "Edens Makelaars"
-  },
-  {
-    "id": "9592",
-    "title": "Prachtig lunchroom/restaurant/borrelcafé met groot terras",
-    "lat": 52.1398293,
-    "lng": 5.5865037,
-    "link": "https://vmh-horeca.nl/aanbod/prachtig-lunchroom-restaurant-borrelcafe-met-groot-terras/",
-    "makelaar": "Horecapachter"
-  },
-  {
-    "id": "7487",
-    "title": "Restaurant Spice-Up Eindhoven (Centrum)",
-    "lat": 51.435811,
-    "lng": 5.4830407,
-    "link": "https://vmh-horeca.nl/aanbod/restaurant-spice-up-eindhoven-centrum/",
-    "makelaar": "ABéMA"
-  },
-  {
-    "id": "9551",
-    "title": "Horecapand te huur in het centrum van Haren!",
-    "lat": 53.1723098,
-    "lng": 6.6052498,
-    "link": "https://vmh-horeca.nl/aanbod/horecapand-te-huur-in-het-centrum-van-haren/",
-    "makelaar": "Horecapachter"
-  },
-  {
-    "id": "11148",
-    "title": "Restaurant El Castillo Vlissingen",
-    "lat": 51.441152,
-    "lng": 3.5747,
-    "link": "https://vmh-horeca.nl/aanbod/restaurant-el-castillo-vlissingen/",
-    "makelaar": "Zeeuwse Horeca Zaken"
-  },
-  {
-    "id": "7681",
-    "title": "Almelo | Café",
-    "lat": 52.3539841,
-    "lng": 6.6662254,
-    "link": "https://vmh-horeca.nl/aanbod/almelo-cafe/",
-    "makelaar": "Horecapachter"
-  },
-  {
-    "id": "8155",
-    "title": "Mooi prachtig gelegen bistro concept op een mooie locatie in Nijmegen",
-    "lat": 51.8466775,
-    "lng": 5.8657872,
-    "link": "https://vmh-horeca.nl/aanbod/mooi-prachtig-gelegen-bistro-concept-op-een-mooie-locatie-in-nijmegen/",
-    "makelaar": "Horecapachter"
-  },
-  {
-    "id": "8040",
-    "title": "Prachtig restaurant met terras",
-    "lat": 52.7863059,
-    "lng": 4.7962374,
-    "link": "https://vmh-horeca.nl/aanbod/restaurant-stiel-met-terras/",
-    "makelaar": "HVAB"
-  },
-  {
-    "id": "7824",
-    "title": "Casco horecalocatie van 800m2",
-    "lat": 51.9264425,
-    "lng": 6.0757034,
-    "link": "https://vmh-horeca.nl/aanbod/casco-horecalocatie-van-800m2/",
-    "makelaar": "Horecapachter"
-  },
-  {
-    "id": "11161",
-    "title": "Winkelruimte / shop te huur in Feanwâlden (Veenwouden) – veelzijdige commerciële locatie",
-    "lat": 53.235127,
-    "lng": 5.9867225,
-    "link": "https://vmh-horeca.nl/aanbod/winkelruimte-shop-te-huur-in-feanwalden-veenwouden-veelzijdige-commerciele-locatie-2/",
-    "makelaar": "Edens Makelaars"
-  },
-  {
-    "id": "9514",
-    "title": "Goedlopende afhaal- en bezorgzaak",
-    "lat": 52.3034365,
-    "lng": 4.6972793,
-    "link": "https://vmh-horeca.nl/aanbod/goedlopende-afhaal-en-bezorgzaak-in-hoofddorp/",
-    "makelaar": "HVAB"
-  },
-  {
-    "id": "8048",
-    "title": "Cafetaria lunchroom in winkelcentrum",
-    "lat": 52.7873054,
-    "lng": 4.7996613,
-    "link": "https://vmh-horeca.nl/aanbod/cafetaria-lunchroom-in-winkelcentrum/",
-    "makelaar": "HVAB"
-  },
-  {
-    "id": "7203",
-    "title": "Restaurant Oude Stadsgracht/Stratumseind Eindhoven",
-    "lat": 51.4359518,
-    "lng": 5.4822785,
-    "link": "https://vmh-horeca.nl/aanbod/restaurant-oude-stadsgracht-stratumseind-eindhoven/",
-    "makelaar": "ABéMA"
-  },
-  {
-    "id": "11651",
-    "title": "Frits Snacks Terschelling",
-    "lat": 53.3898535,
-    "lng": 5.3098956,
-    "link": "https://vmh-horeca.nl/aanbod/frits-snacks-terschelling/",
-    "makelaar": "Edens Makelaars"
-  },
-  {
-    "id": "9914",
-    "title": "Cafetaria te koop in Dokkum – De Chefs",
-    "lat": 53.3227757,
-    "lng": 6.0090642,
-    "link": "https://vmh-horeca.nl/aanbod/cafetaria-te-koop-in-dokkum-de-chefs/",
-    "makelaar": "Edens Makelaars"
-  },
-  {
-    "id": "9987",
-    "title": "Kwalitaria/Délifrance in het gezellige en toeristische centrum van Delden",
-    "lat": 52.2624948,
-    "lng": 6.7130856,
-    "link": "https://vmh-horeca.nl/aanbod/kwalitaria-delifrance-in-het-gezellige-en-toeristische-centrum-van-delden/",
-    "makelaar": "Horecapachter"
-  },
-  {
-    "id": "11455",
-    "title": "Sfeervolle bar en restaurant met ruim terras",
-    "lat": 52.2680061,
-    "lng": 4.7475874,
-    "link": "https://vmh-horeca.nl/aanbod/sfeervolle-bar-en-restaurant-met-ruim-terras-in-het-centrum/",
-    "makelaar": "HVAB"
-  },
-  {
-    "id": "11515",
-    "title": "Sfeervol (feest)café in het centrum",
-    "lat": 52.6389837,
-    "lng": 5.0587484,
-    "link": "https://vmh-horeca.nl/aanbod/sfeervol-feestcafe-in-het-centrum-2/",
-    "makelaar": "HVAB"
-  },
-  {
-    "id": "11586",
-    "title": "Drechtsteden | Unieke kans voor startende horecaondernemer",
-    "lat": 51.8216889,
-    "lng": 4.771716,
-    "link": "https://vmh-horeca.nl/aanbod/drechtsteden-unieke-kans-voor-startende-horecaondernemer/",
-    "makelaar": "MIH"
-  },
-  {
-    "id": "9892",
-    "title": "Witmarsum: Onroerend Goed [inventaris cafetaria is verkocht]",
-    "lat": 53.1029435,
-    "lng": 5.4666117,
-    "link": "https://vmh-horeca.nl/aanbod/witmarsum-onroerend-goed-inventaris-cafetaria-is-verkocht/",
-    "makelaar": "Edens Makelaars"
-  },
-  {
-    "id": "8220",
-    "title": "Mooi gelegen cafetaria middenin het centrum op unieke A1 locatie van gezellige Hanzestad",
-    "lat": 52.2518224,
-    "lng": 6.1559959,
-    "link": "https://vmh-horeca.nl/aanbod/mooi-gelegen-cafetaria-middenin-het-centrum-op-unieke-a1-locatie-van-gezellige-hanzestad/",
-    "makelaar": "Horecapachter"
-  },
-  {
-    "id": "11521",
-    "title": "Lisse | ter overname moderne IJssalon op toplocatie in de Bollenstreek",
-    "lat": 52.2591713,
-    "lng": 4.5563345,
-    "link": "https://vmh-horeca.nl/aanbod/lisse-ter-overname-moderne-ijssalon-op-toplocatie-in-de-bollenstreek/",
-    "makelaar": "MIH"
-  },
-  {
-    "id": "11476",
-    "title": "Restaurant in centrum van Haarlem",
-    "lat": 52.3783472,
-    "lng": 4.6368078,
-    "link": "https://vmh-horeca.nl/aanbod/restaurant-in-centrum-van-haarlem/",
-    "makelaar": "HVAB"
-  },
-  {
-    "id": "9816",
-    "title": "Kootstertille: Snackbar &#8217;t Centrum",
-    "lat": 53.2136995,
-    "lng": 6.0952612,
-    "link": "https://vmh-horeca.nl/aanbod/kootstertille-snackbar-t-centrum/",
-    "makelaar": "Edens Makelaars"
-  },
-  {
-    "id": "8014",
-    "title": "Café-Restaurant met terras op Texel",
-    "lat": 53.0983169,
-    "lng": 4.7624122,
-    "link": "https://vmh-horeca.nl/aanbod/cafe-restaurant-met-terras-op-texel/",
-    "makelaar": "HVAB"
-  },
-  {
     "id": "8066",
     "title": "Restaurant met zonnig terras",
     "lat": 52.7521174,
@@ -1000,28 +24,12 @@
     "makelaar": "HVAB"
   },
   {
-    "id": "8484",
-    "title": "Montfoort | Pizzeria met terras.",
-    "lat": 50.8547264,
-    "lng": 4.6097805,
-    "link": "https://vmh-horeca.nl/aanbod/montfoort-pizzeria-met-terras/",
-    "makelaar": "MIH"
-  },
-  {
-    "id": "8938",
-    "title": "Multifunctioneel horeca- en/of leisure pand op super A1 locatie van maar liefst ca 400m²",
-    "lat": 52.0248249,
-    "lng": 5.5543535,
-    "link": "https://vmh-horeca.nl/aanbod/multifunctioneel-horeca-en-of-leisure-pand-op-super-a1-locatie-van-maar-liefst-ca-400m%c2%b2/",
+    "id": "7736",
+    "title": "Frankrijk | Landgoed, B&#038;B, Feestlocatie",
+    "lat": 48.7934092,
+    "lng": 4.4725249,
+    "link": "https://vmh-horeca.nl/aanbod/frankrijk-landgoed-bb-feestlocatie/",
     "makelaar": "Horecapachter"
-  },
-  {
-    "id": "8136",
-    "title": "Grote productiekeuken / bezorg- &amp; afhaallocatie",
-    "lat": 52.5013763,
-    "lng": 5.0774077,
-    "link": "https://vmh-horeca.nl/aanbod/grote-productiekeuken-bezorg-afhaallocatie-2/",
-    "makelaar": "HVAB"
   },
   {
     "id": "9916",
@@ -1032,35 +40,11 @@
     "makelaar": "Edens Makelaars"
   },
   {
-    "id": "9730",
-    "title": "Horeca te pacht op vakantiepark net over de grens in Duitsland",
-    "lat": 52.519134,
-    "lng": 6.8733591,
-    "link": "https://vmh-horeca.nl/aanbod/horeca-te-pacht-op-vakantiepark-net-over-de-grens-in-duitsland/",
-    "makelaar": "Horecapachter"
-  },
-  {
-    "id": "9834",
-    "title": "Appelscha: Pannenkoekenrestaurant de Appelsche Hof",
-    "lat": 52.9539328,
-    "lng": 6.3411052,
-    "link": "https://vmh-horeca.nl/aanbod/appelscha-pannenkoekenrestaurant-de-appelsche-hof/",
-    "makelaar": "Edens Makelaars"
-  },
-  {
-    "id": "11529",
-    "title": "Prachtig gelegen restaurant te koop met BOG met veel toekomstmogelijkheden en ruime bedrijfswoning",
-    "lat": 52.0288417,
-    "lng": 6.3943244,
-    "link": "https://vmh-horeca.nl/aanbod/prachtig-gelegen-restaurant-te-koop-met-bog-met-veel-toekomstmogelijkheden-en-ruime-bedrijfswoning/",
-    "makelaar": "Horecapachter"
-  },
-  {
-    "id": "8603",
-    "title": "Leiden | Lunchroom Délifrance",
-    "lat": 52.1604019,
-    "lng": 4.4942303,
-    "link": "https://vmh-horeca.nl/aanbod/leiden-lunchroom-delifrance/",
+    "id": "9143",
+    "title": "Belegingspand onder de rook van Rotterdam",
+    "lat": 51.9232069,
+    "lng": 4.4334722,
+    "link": "https://vmh-horeca.nl/aanbod/belegingspand-onder-de-rook-van-rotterdam-2/",
     "makelaar": "MIH"
   },
   {
@@ -1072,22 +56,6 @@
     "makelaar": "Edens Makelaars"
   },
   {
-    "id": "8623",
-    "title": "Rhenoy | West Betuwe Cafetaria Route88",
-    "lat": 51.8808188,
-    "lng": 5.1508966,
-    "link": "https://vmh-horeca.nl/aanbod/rhenoy-west-betuwe-cafetaria-route88/",
-    "makelaar": "MIH"
-  },
-  {
-    "id": "11025",
-    "title": "Grillroom, Pizzeria, Cafetaria op A1-locatie te koop in Lochem",
-    "lat": 52.1622696,
-    "lng": 6.4127289,
-    "link": "https://vmh-horeca.nl/aanbod/grillroom-pizzeria-cafetaria-op-a1-locatie-te-koop-in-lochem/",
-    "makelaar": "Horecapachter"
-  },
-  {
     "id": "10937",
     "title": "Prachtige locatie met een ongeëvenaard uitzicht over de Waal en de iconische brug in Nijmegen",
     "lat": 51.850613,
@@ -1096,67 +64,19 @@
     "makelaar": "Horecapachter"
   },
   {
-    "id": "11256",
-    "title": "Grandcafe Plein &#8211; A1 locatie in Emmen",
-    "lat": 52.7829986,
-    "lng": 6.893191,
-    "link": "https://vmh-horeca.nl/aanbod/grandcafe-plein-a1-locatie-in-emmen/",
-    "makelaar": "Edens Makelaars"
+    "id": "7471",
+    "title": "Eetcafé De Posthoorn Cuijk",
+    "lat": 51.7287069,
+    "lng": 5.8822757,
+    "link": "https://vmh-horeca.nl/aanbod/eetcafe-de-posthoorn-cuijk/",
+    "makelaar": "ABéMA"
   },
   {
-    "id": "9691",
-    "title": "Horeca te pacht op Camping en Jachthaven De Meeuw in Brielle",
-    "lat": 51.9065971,
-    "lng": 4.1756773,
-    "link": "https://vmh-horeca.nl/aanbod/horeca-te-pacht-op-camping-en-jachthaven-de-meeuw-in-brielle/",
-    "makelaar": "Horecapachter"
-  },
-  {
-    "id": "9145",
-    "title": "Dordrecht toplocatie eetcafe op het Scheffersplein",
-    "lat": 51.81516,
-    "lng": 4.667665,
-    "link": "https://vmh-horeca.nl/aanbod/dordrecht-toplocatie-eetcafe-op-het-scheffersplein-2/",
-    "makelaar": "MIH"
-  },
-  {
-    "id": "7932",
-    "title": "Mooie locatie met afhaalmogelijkheid op het gezellige winkelcentrum de Eglantier met fraai terras",
-    "lat": 52.1959106,
-    "lng": 6.0045096,
-    "link": "https://vmh-horeca.nl/aanbod/mooie-locatie-met-afhaalmogelijkheid-op-het-gezellige-winkelcentrum-de-eglantier-met-fraai-terras/",
-    "makelaar": "Horecapachter"
-  },
-  {
-    "id": "7736",
-    "title": "Frankrijk | Landgoed, B&#038;B, Feestlocatie",
-    "lat": 48.7934092,
-    "lng": 4.4725249,
-    "link": "https://vmh-horeca.nl/aanbod/frankrijk-landgoed-bb-feestlocatie/",
-    "makelaar": "Horecapachter"
-  },
-  {
-    "id": "11561",
-    "title": "Turn-key fastfoodzaak in Amsterdam-Zuid",
-    "lat": 52.3535099,
-    "lng": 4.8862079,
-    "link": "https://vmh-horeca.nl/aanbod/turn-key-fastfoodzaak-in-amsterdam-zuid-2/",
-    "makelaar": "HVAB"
-  },
-  {
-    "id": "7902",
-    "title": "Horecalocatie in het centrum van Nijmegen",
-    "lat": 51.846688,
-    "lng": 5.8598196,
-    "link": "https://vmh-horeca.nl/aanbod/horecalocatie-in-het-centrum-van-nijmegen/",
-    "makelaar": "Horecapachter"
-  },
-  {
-    "id": "7998",
-    "title": "Cafetaria/snackbar in centrum",
-    "lat": 52.7872724,
-    "lng": 4.7966326,
-    "link": "https://vmh-horeca.nl/aanbod/cafetaria-snackbar/",
+    "id": "9706",
+    "title": "Gevestigde afhaal- en bezorgzaak Wok-inn",
+    "lat": 52.3507193,
+    "lng": 4.8529621,
+    "link": "https://vmh-horeca.nl/aanbod/gevestigde-afhaal-en-bezorgzaak-wok-inn-2/",
     "makelaar": "HVAB"
   },
   {
@@ -1168,460 +88,52 @@
     "makelaar": "MIH"
   },
   {
-    "id": "11017",
-    "title": "Curacao | Willemstad  wijk Parera  &#8211; Sportsbar bij Nederlandse Marinebasis.",
-    "lat": 12.1088438,
-    "lng": -68.9173507,
-    "link": "https://vmh-horeca.nl/aanbod/curacao-willemstad-wijk-parera-sportsbar-bij-nederlandse-marinebasis/",
-    "makelaar": "MIH"
-  },
-  {
-    "id": "7928",
-    "title": "Lunch- en borrelcafé, restaurant in de omgeving van Nijmegen",
-    "lat": 51.8465931,
-    "lng": 5.8658743,
-    "link": "https://vmh-horeca.nl/aanbod/lunch-en-borrelcafe-restaurant-in-de-omgeving-van-nijmegen/",
-    "makelaar": "Horecapachter"
-  },
-  {
-    "id": "8619",
-    "title": "Aruba | te koop op One Happy Island Oranjestad",
-    "lat": 12.5221457,
-    "lng": -70.0360049,
-    "link": "https://vmh-horeca.nl/aanbod/aruba-te-koop-op-one-happy-island-oranjestad/",
-    "makelaar": "MIH"
-  },
-  {
-    "id": "9846",
-    "title": "Instapklaar horecabedrijf te koop in Leeuwarden – Doughpamine",
-    "lat": 53.1969994,
-    "lng": 5.7905113,
-    "link": "https://vmh-horeca.nl/aanbod/instapklaar-horecabedrijf-te-koop-in-leeuwarden-doughpamine/",
-    "makelaar": "Edens Makelaars"
-  },
-  {
-    "id": "7469",
-    "title": "Eetcafé / Restaurant / Zaal De Klok Reusel",
-    "lat": 51.3560627,
-    "lng": 5.1429038,
-    "link": "https://vmh-horeca.nl/aanbod/eetcafe-restaurant-zaal-de-klok-reusel/",
-    "makelaar": "ABéMA"
-  },
-  {
-    "id": "9594",
-    "title": "Uniek horeca concept op A1-locatie rand Korenmarkt in Arnhem",
-    "lat": 51.9830093,
-    "lng": 5.9047497,
-    "link": "https://vmh-horeca.nl/aanbod/uniek-horeca-concept-op-a1-locatie-rand-korenmarkt-in-arnhem/",
-    "makelaar": "Horecapachter"
-  },
-  {
-    "id": "9818",
-    "title": "Horecabedrijf te koop Harlingen – Lokaal Harlingen Waddenpromenade",
-    "lat": 53.1766213,
-    "lng": 5.413222,
-    "link": "https://vmh-horeca.nl/aanbod/harlingen-lokaal-harlingen/",
-    "makelaar": "Edens Makelaars"
-  },
-  {
-    "id": "8557",
-    "title": "Sliedrecht | Cafetaria verkocht aan jachthaven op toplocatie",
-    "lat": 51.8199044,
-    "lng": 4.7704176,
-    "link": "https://vmh-horeca.nl/aanbod/sliedrecht-cafetaria-verkocht-aan-jachthaven-op-toplocatie/",
-    "makelaar": "MIH"
-  },
-  {
-    "id": "9934",
-    "title": "Pizzeria te huur in Makkum – Instap klaar horecabedrijf met dakterras",
-    "lat": 53.0552687,
-    "lng": 5.4025422,
-    "link": "https://vmh-horeca.nl/aanbod/te-huur-pizzeria-skyla-mackum/",
-    "makelaar": "Edens Makelaars"
-  },
-  {
-    "id": "10999",
-    "title": "Boschdijk 432 Casco Horeca onroerend goed met ruime bovenwoning",
-    "lat": 51.4578727,
-    "lng": 5.4587983,
-    "link": "https://vmh-horeca.nl/aanbod/boschdijk-432-casco-horeca-onroerend-goed-met-ruime-bovenwoning-2/",
-    "makelaar": "ABéMA"
-  },
-  {
-    "id": "7471",
-    "title": "Eetcafé De Posthoorn Cuijk",
-    "lat": 51.7287069,
-    "lng": 5.8822757,
-    "link": "https://vmh-horeca.nl/aanbod/eetcafe-de-posthoorn-cuijk/",
-    "makelaar": "ABéMA"
-  },
-  {
-    "id": "6804",
-    "title": "Restaurant met woning haven Enkhuizen",
-    "lat": 52.7005298,
-    "lng": 5.2916005,
-    "link": "https://vmh-horeca.nl/aanbod/restaurant-met-woning-haven-enkhuizen/",
+    "id": "11561",
+    "title": "Turn-key fastfoodzaak in Amsterdam-Zuid",
+    "lat": 52.3535099,
+    "lng": 4.8862079,
+    "link": "https://vmh-horeca.nl/aanbod/turn-key-fastfoodzaak-in-amsterdam-zuid-2/",
     "makelaar": "HVAB"
   },
   {
-    "id": "7601",
-    "title": "Horecalocatie te koop gezocht in Utrecht",
-    "lat": 52.0907374,
-    "lng": 5.1214201,
-    "link": "https://vmh-horeca.nl/aanbod/gezocht-horecalocatie-in-utrecht/",
-    "makelaar": "Horecapachter"
-  },
-  {
-    "id": "11126",
-    "title": "Bed and Breakfast te koop Marrum – Duurzame B&amp;B in Friesland",
-    "lat": 53.3235375,
-    "lng": 5.800346,
-    "link": "https://vmh-horeca.nl/aanbod/bed-and-breakfast-te-koop-marrum-duurzame-bb-in-friesland-2/",
-    "makelaar": "Edens Makelaars"
-  },
-  {
-    "id": "11517",
-    "title": "Winstgevend café met lage huur én bedrijfswoning",
-    "lat": 52.2384865,
-    "lng": 4.7941271,
-    "link": "https://vmh-horeca.nl/aanbod/winstgevend-cafe-met-lage-huur-en-bedrijfswoning-2/",
-    "makelaar": "HVAB"
-  },
-  {
-    "id": "11419",
-    "title": "Cafetaria verkopen?",
-    "lat": 51.8137343,
-    "lng": 5.2469059,
-    "link": "https://vmh-horeca.nl/aanbod/cafetaria-verkopen/",
-    "makelaar": "Horecapachter"
-  },
-  {
-    "id": "9621",
-    "title": "Restaurant Tramhalte Duizel",
-    "lat": 51.3656548,
-    "lng": 5.2953967,
-    "link": "https://vmh-horeca.nl/aanbod/restaurant-tramhalte-duizel-2/",
-    "makelaar": "ABéMA"
-  },
-  {
-    "id": "11423",
-    "title": "Horecabedrijf te pacht in Gelderland | Turnkey horecalocatie aan het water",
-    "lat": 52.1565963,
-    "lng": 5.3840355,
-    "link": "https://vmh-horeca.nl/aanbod/horecabedrijf-te-pacht-in-gelderland-turnkey-horecalocatie-aan-het-water/",
-    "makelaar": "Horecapachter"
-  },
-  {
-    "id": "9890",
-    "title": "Cafetaria / eetcafé te koop in Emmen: Lady’s Burger Beschikbaar tegen een aannemelijk bod",
-    "lat": 52.787207,
-    "lng": 6.895298,
-    "link": "https://vmh-horeca.nl/aanbod/eetcafe-te-koop-in-emmen-ladys-burger-2/",
-    "makelaar": "Edens Makelaars"
-  },
-  {
-    "id": "9930",
-    "title": "Restaurant te huur Lemmer aan het water – Overname inventaris",
-    "lat": 52.8449464,
-    "lng": 5.710553,
-    "link": "https://vmh-horeca.nl/aanbod/te-huur-lemmer-cafe-restaurant-centrum/",
-    "makelaar": "Edens Makelaars"
-  },
-  {
-    "id": "11336",
-    "title": "Horecalocatie te huur in Leeuwarden | Tivoli Nieuwestad",
-    "lat": 53.2008373,
-    "lng": 5.7948652,
-    "link": "https://vmh-horeca.nl/aanbod/horecalocatie-te-huur-in-leeuwarden-tivoli-nieuwestad/",
-    "makelaar": "Edens Makelaars"
-  },
-  {
-    "id": "11559",
-    "title": "HCR De Harmonie in Sexbierum te koop – compleet horecabedrijf met hotel en woning",
-    "lat": 53.2172539,
-    "lng": 5.4853167,
-    "link": "https://vmh-horeca.nl/aanbod/hcr-de-harmonie-in-sexbierum-te-koop-compleet-horecabedrijf-met-hotel-en-woning/",
-    "makelaar": "Edens Makelaars"
-  },
-  {
-    "id": "9238",
-    "title": "Goedlopende en zeer netjes ingerichte cafetaria met terras en zeer ruime bedrijfswoning",
-    "lat": 52.3125083,
-    "lng": 6.9305595,
-    "link": "https://vmh-horeca.nl/aanbod/goedlopende-en-zeer-netjes-ingerichte-cafetaria-met-terras-en-zeer-ruime-bedrijfswoning/",
-    "makelaar": "Horecapachter"
-  },
-  {
-    "id": "9627",
-    "title": "Sushi Express afhaal en bezorgrestaurant Eindhoven",
-    "lat": 51.4430591,
-    "lng": 5.4551131,
-    "link": "https://vmh-horeca.nl/aanbod/sushi-express-afhaal-en-bezorgrestaurant-eindhoven-2/",
-    "makelaar": "ABéMA"
-  },
-  {
-    "id": "8058",
-    "title": "Lunchroom met bedrijfswoning in middelgrote stad in Noord-Holland",
-    "lat": 52.7599904,
-    "lng": 4.8948295,
-    "link": "https://vmh-horeca.nl/aanbod/lunchroom-met-bb-mogelijkheid/",
-    "makelaar": "HVAB"
-  },
-  {
-    "id": "7138",
-    "title": "De Frietaire Eindhoven",
-    "lat": 51.4399121,
-    "lng": 5.4760568,
-    "link": "https://vmh-horeca.nl/aanbod/de-frietaire-eindhoven/",
-    "makelaar": "ABéMA"
-  },
-  {
-    "id": "7759",
-    "title": "Zwolle | Eetcafé, Grand Café",
-    "lat": 52.5167747,
-    "lng": 6.0830219,
-    "link": "https://vmh-horeca.nl/aanbod/zwolle-eetcafe-grand-cafe/",
-    "makelaar": "Horecapachter"
-  },
-  {
-    "id": "7722",
-    "title": "Apeldoorn | Café",
-    "lat": 52.1936338,
-    "lng": 6.004931,
-    "link": "https://vmh-horeca.nl/aanbod/apeldoorn-cafe-2/",
-    "makelaar": "Horecapachter"
-  },
-  {
-    "id": "11027",
-    "title": "Topkans voor startende ondernemer! Café, Feestcafé pal naast de Korenmarkt",
-    "lat": 51.9820914,
-    "lng": 5.9046634,
-    "link": "https://vmh-horeca.nl/aanbod/topkans-voor-startende-ondernemer-cafe-feestcafe-pal-naast-de-korenmarkt/",
-    "makelaar": "Horecapachter"
-  },
-  {
-    "id": "8008",
-    "title": "Restaurant met riante bedrijfswoning",
-    "lat": 52.9072449,
-    "lng": 4.9613324,
-    "link": "https://vmh-horeca.nl/aanbod/restaurant-met-bedrijfswoning/",
-    "makelaar": "HVAB"
-  },
-  {
-    "id": "11545",
-    "title": "Te koop: Locaal 39, karaktervol lunchcafé in hartje Middelburg eventueel met bovenwoning",
-    "lat": 51.499328,
-    "lng": 3.6134316,
-    "link": "https://vmh-horeca.nl/aanbod/te-koop-locaal-39-karaktervol-lunchcafe-in-hartje-middelburg/",
-    "makelaar": "Zeeuwse Horeca Zaken"
-  },
-  {
-    "id": "7910",
-    "title": "Ontwikkeling strandpaviljoen bij het Wylerbergmeer",
-    "lat": 51.8271924,
-    "lng": 5.9445965,
-    "link": "https://vmh-horeca.nl/aanbod/ontwikkeling-strandpaviljoen-bij-het-wylerbergmeer/",
-    "makelaar": "Horecapachter"
-  },
-  {
-    "id": "11208",
-    "title": "Te huur Eetcafé De Concurrent",
-    "lat": 51.442,
-    "lng": 3.5738,
-    "link": "https://vmh-horeca.nl/aanbod/te-huur-eetcafe-de-concurrent/",
-    "makelaar": "Zeeuwse Horeca Zaken"
-  },
-  {
-    "id": "8498",
-    "title": "VERKOCHT! Curacao Willemsstad | toplocatie restaurant met seaview uitz",
-    "lat": 12.1038322,
-    "lng": -68.9330531,
-    "link": "https://vmh-horeca.nl/aanbod/verkocht-curacao-willemsstad-toplocatie-restaurant-met-seaview-uitz/",
+    "id": "11521",
+    "title": "Lisse | ter overname moderne IJssalon op toplocatie in de Bollenstreek",
+    "lat": 52.2591713,
+    "lng": 4.5563345,
+    "link": "https://vmh-horeca.nl/aanbod/lisse-ter-overname-moderne-ijssalon-op-toplocatie-in-de-bollenstreek/",
     "makelaar": "MIH"
   },
   {
-    "id": "9525",
-    "title": "Giessenburg | Eetcafe met cafetaria en groot terras plus appartementen. VERKOCHT!",
-    "lat": 51.8487832,
-    "lng": 4.8936716,
-    "link": "https://vmh-horeca.nl/aanbod/giessenburg-eetcafe-met-cafetaria-en-groot-terras-plus-appartementen-2/",
-    "makelaar": "MIH"
-  },
-  {
-    "id": "11341",
-    "title": "Horecalocatie op de Korenmarkt in Arnhem",
-    "lat": 51.982611,
-    "lng": 5.9044975,
-    "link": "https://vmh-horeca.nl/aanbod/horecalocatie-op-de-korenmarkt-in-arnhem/",
+    "id": "8870",
+    "title": "Café te koop in Arnhem | Aan de Korenmarkt met terras",
+    "lat": 51.9793058,
+    "lng": 5.9117582,
+    "link": "https://vmh-horeca.nl/aanbod/cafe-aan-het-uitgaansplein-in-het-centrum-van-arnhem/",
     "makelaar": "Horecapachter"
   },
   {
-    "id": "11523",
-    "title": "Compleet nieuwe cafetaria, bezorg- en afhaalrestaurant in Wageningen",
-    "lat": 51.9670322,
-    "lng": 5.6682295,
-    "link": "https://vmh-horeca.nl/aanbod/compleet-nieuwe-cafetaria-bezorg-en-afhaalrestaurant-in-wageningen/",
-    "makelaar": "Horecapachter"
-  },
-  {
-    "id": "9868",
-    "title": "Hotel de Waag – Hotel te koop in Makkum",
-    "lat": 53.0556179,
-    "lng": 5.4030812,
-    "link": "https://vmh-horeca.nl/aanbod/hotel-de-waag-hotel-te-koop-in-makkum/",
-    "makelaar": "Edens Makelaars"
-  },
-  {
-    "id": "8050",
-    "title": "Café in de Den Helder",
-    "lat": 52.949644,
-    "lng": 4.7595311,
-    "link": "https://vmh-horeca.nl/aanbod/cafe-met-bedrijfswoning/",
-    "makelaar": "HVAB"
-  },
-  {
-    "id": "11249",
-    "title": "Lunchroom Tilly Rose",
-    "lat": 51.4426,
-    "lng": 3.5739,
-    "link": "https://vmh-horeca.nl/aanbod/lunchroom-tilly-rose/",
-    "makelaar": "Zeeuwse Horeca Zaken"
-  },
-  {
-    "id": "8062",
-    "title": "Casco-winkelruimte aan de Spoorstraat",
-    "lat": 52.9596956,
-    "lng": 4.7630032,
-    "link": "https://vmh-horeca.nl/aanbod/casco-winkelruimte-aan-de-spoorstraat/",
-    "makelaar": "HVAB"
-  },
-  {
-    "id": "11582",
-    "title": "Kwalitaria (franchise) in Amsterdam-West",
-    "lat": 52.3701637,
-    "lng": 4.867705,
-    "link": "https://vmh-horeca.nl/aanbod/kwalitaria-franchise-in-amsterdam-west/",
-    "makelaar": "HVAB"
-  },
-  {
-    "id": "9844",
-    "title": "Friesland: Pizzeria",
-    "lat": 53.0966518,
-    "lng": 5.8412375,
-    "link": "https://vmh-horeca.nl/aanbod/friesland-pizzeria/",
-    "makelaar": "Edens Makelaars"
-  },
-  {
-    "id": "11233",
-    "title": "Restaurant aan de rand van het centrum in Wageningen &#8211; Lage huur!",
-    "lat": 51.9707718,
-    "lng": 5.6692009,
-    "link": "https://vmh-horeca.nl/aanbod/restaurant-aan-de-rand-van-het-centrum-in-wageningen-lage-huur/",
-    "makelaar": "Horecapachter"
-  },
-  {
-    "id": "9143",
-    "title": "Belegingspand onder de rook van Rotterdam",
-    "lat": 51.9232069,
-    "lng": 4.4334722,
-    "link": "https://vmh-horeca.nl/aanbod/belegingspand-onder-de-rook-van-rotterdam-2/",
-    "makelaar": "MIH"
-  },
-  {
-    "id": "7951",
-    "title": "Toplocatie met prachtig terras te huur op een van de mooiste plekjes aan de Maas",
-    "lat": 51.8197722,
-    "lng": 5.5445639,
-    "link": "https://vmh-horeca.nl/aanbod/toplocatie-met-prachtig-terras-te-huur-op-een-van-de-mooiste-plekjes-aan-de-maas/",
-    "makelaar": "Horecapachter"
-  },
-  {
-    "id": "7708",
-    "title": "St. Eustatius | Restaurant, Bar &#038; Lounge",
-    "lat": 17.4851117,
-    "lng": -62.95371,
-    "link": "https://vmh-horeca.nl/aanbod/st-eustatius-restaurant-bar-lounge/",
-    "makelaar": "Horecapachter"
-  },
-  {
-    "id": "8667",
-    "title": "Aruba Oranjestad | Horeca ondernemer(ster) gezocht!",
-    "lat": 12.5218057,
-    "lng": -70.0362592,
-    "link": "https://vmh-horeca.nl/aanbod/aruba-oranjestad-horeca-ondernemerster-gezocht/",
-    "makelaar": "MIH"
-  },
-  {
-    "id": "11366",
-    "title": "Restaurant/Noodlebar Issei Eindhoven",
-    "lat": 51.4413629,
-    "lng": 5.4540628,
-    "link": "https://vmh-horeca.nl/aanbod/restaurant-noodlebar-issei-eindhoven-2/",
+    "id": "11382",
+    "title": "Cafetaria De Verse Pieper Nuenen",
+    "lat": 51.4728148,
+    "lng": 5.5670633,
+    "link": "https://vmh-horeca.nl/aanbod/cafetaria-de-verse-pieper-nuenen-2/",
     "makelaar": "ABéMA"
   },
   {
-    "id": "8621",
-    "title": "Oostenrijk Tirol Niederau | Apre skihut Schnapshutte",
-    "lat": 47.4484298,
-    "lng": 12.0934458,
-    "link": "https://vmh-horeca.nl/aanbod/oostenrijk-tirol-niederau/",
-    "makelaar": "MIH"
-  },
-  {
-    "id": "11098",
-    "title": "Kwalitaria vestiging (franchise) in Purmerend",
-    "lat": 52.4967332,
-    "lng": 4.9384852,
-    "link": "https://vmh-horeca.nl/aanbod/kwalitaria-vestiging-franchise-in-purmerend-2/",
-    "makelaar": "HVAB"
-  },
-  {
-    "id": "7463",
-    "title": "Cocktailbar Mundial Eindhoven (centrum)",
-    "lat": 51.4367545,
-    "lng": 5.4818923,
-    "link": "https://vmh-horeca.nl/aanbod/cocktailbar-mundial-eindhoven-centrum/",
-    "makelaar": "ABéMA"
-  },
-  {
-    "id": "8868",
-    "title": "Horecalocatie in de regio Arnhem &#8211; Nijmegen &#8211; Ede",
-    "lat": 51.9851034,
-    "lng": 5.8987296,
-    "link": "https://vmh-horeca.nl/aanbod/zalencentrum/",
+    "id": "9691",
+    "title": "Horeca te pacht op Camping en Jachthaven De Meeuw in Brielle",
+    "lat": 51.9065971,
+    "lng": 4.1756773,
+    "link": "https://vmh-horeca.nl/aanbod/horeca-te-pacht-op-camping-en-jachthaven-de-meeuw-in-brielle/",
     "makelaar": "Horecapachter"
   },
   {
-    "id": "9280",
-    "title": "Prachtige kans met zeer lage huur! 160m2!",
-    "lat": 52.0016788,
-    "lng": 5.9406861,
-    "link": "https://vmh-horeca.nl/aanbod/prachtig-kans-met-zeer-lage-huur/",
+    "id": "7406",
+    "title": "Gezocht: horecalocatie in Gelderland | Restaurant gezocht",
+    "lat": 52.1401901,
+    "lng": 5.5841509,
+    "link": "https://vmh-horeca.nl/aanbod/gezocht-horecalocatie/",
     "makelaar": "Horecapachter"
-  },
-  {
-    "id": "8609",
-    "title": "Gorinchem | Restaurant aan het water",
-    "lat": 51.8298962,
-    "lng": 4.97632979,
-    "link": "https://vmh-horeca.nl/aanbod/gorinchem-restaurant-aan-het-water/",
-    "makelaar": "MIH"
-  },
-  {
-    "id": "7819",
-    "title": "Apeldoorn | Horecalocatie",
-    "lat": 52.1954143,
-    "lng": 6.0040013,
-    "link": "https://vmh-horeca.nl/aanbod/apeldoorn-horecalocatie/",
-    "makelaar": "Horecapachter"
-  },
-  {
-    "id": "11647",
-    "title": "New York Pizza Heythuysen",
-    "lat": 51.2492073,
-    "lng": 5.8937271,
-    "link": "https://vmh-horeca.nl/aanbod/new-york-pizza-heythuysen-2/",
-    "makelaar": "ABéMA"
   },
   {
     "id": "9943",
@@ -1632,91 +144,75 @@
     "makelaar": "HVAB"
   },
   {
-    "id": "7433",
-    "title": "Ontwikkelingsperceel Maashees (Leisure)",
-    "lat": 51.5833669,
-    "lng": 6.0204889,
-    "link": "https://vmh-horeca.nl/aanbod/ontwikkelingsperceel-maashees-leisure/",
-    "makelaar": "ABéMA"
-  },
-  {
-    "id": "7774",
-    "title": "Succesvol eetcafé met bovenwoning in Beekbergen, compleet en instapklaar",
-    "lat": 52.1594886,
-    "lng": 5.9612768,
-    "link": "https://vmh-horeca.nl/aanbod/apeldoorn-eetcafe-met-bedrijfswoning/",
+    "id": "7910",
+    "title": "Ontwikkeling strandpaviljoen bij het Wylerbergmeer",
+    "lat": 51.8271924,
+    "lng": 5.9445965,
+    "link": "https://vmh-horeca.nl/aanbod/ontwikkeling-strandpaviljoen-bij-het-wylerbergmeer/",
     "makelaar": "Horecapachter"
   },
   {
-    "id": "7912",
-    "title": "Horecalocatie in de omgeving van Giethoorn",
-    "lat": 52.7236554,
-    "lng": 6.07747,
-    "link": "https://vmh-horeca.nl/aanbod/horecalocatie-in-de-omgeving-van-giethoorn/",
+    "id": "9894",
+    "title": "Emmen, 2 prachtige horecazaken in de stille verkoop.",
+    "lat": 52.7861939,
+    "lng": 6.891697,
+    "link": "https://vmh-horeca.nl/aanbod/emmen-2-prachtige-horecazaken-in-de-stille-verkoop/",
+    "makelaar": "Edens Makelaars"
+  },
+  {
+    "id": "8020",
+    "title": "Chinees-Indonesisch restaurant in het centrum",
+    "lat": 52.7870955,
+    "lng": 4.7961517,
+    "link": "https://vmh-horeca.nl/aanbod/chinees-indonesisch-restaurant-in-het-centrum/",
+    "makelaar": "HVAB"
+  },
+  {
+    "id": "11423",
+    "title": "Horecabedrijf te pacht in Gelderland | Turnkey horecalocatie aan het water",
+    "lat": 52.1565963,
+    "lng": 5.3840355,
+    "link": "https://vmh-horeca.nl/aanbod/horecabedrijf-te-pacht-in-gelderland-turnkey-horecalocatie-aan-het-water/",
     "makelaar": "Horecapachter"
   },
   {
-    "id": "7303",
-    "title": "Horecalocatie gezocht in Arnhem | Nieuw horecaconcept",
-    "lat": 51.9851034,
-    "lng": 5.8987296,
-    "link": "https://vmh-horeca.nl/aanbod/gezocht-horecalocatie-in-arnhem/",
-    "makelaar": "Horecapachter"
-  },
-  {
-    "id": "9577",
-    "title": "Groot-Ammers | te koop heerlijk biljart dart en eetcafe met overdekt verwarmd terras / serre op de dijk.",
-    "lat": 51.922843,
-    "lng": 4.815663,
-    "link": "https://vmh-horeca.nl/aanbod/groot-ammers-te-koop-heerlijk-biljart-dart-en-eetcafe-met-overdekt-verwarmd-terras-serre-aan-de-dijk/",
-    "makelaar": "MIH"
-  },
-  {
-    "id": "11403",
-    "title": "Ammerstol | Bar Eetcafe Aan De Lek",
-    "lat": 51.9250614,
-    "lng": 4.8075848,
-    "link": "https://vmh-horeca.nl/aanbod/ammerstol-bar-eetcafe-aan-de-lek/",
-    "makelaar": "MIH"
-  },
-  {
-    "id": "8936",
-    "title": "Veenendaal centrum | te huur casco horecapand 400 M2",
+    "id": "8938",
+    "title": "Multifunctioneel horeca- en/of leisure pand op super A1 locatie van maar liefst ca 400m²",
     "lat": 52.0248249,
     "lng": 5.5543535,
-    "link": "https://vmh-horeca.nl/aanbod/veenendaal-centrum-te-huur-casco-horecapand-400-m2/",
-    "makelaar": "MIH"
-  },
-  {
-    "id": "7942",
-    "title": "Zeer goedlopend horecabedrijf met bezorg- en afhaalfunctie in het centrum van Hengelo",
-    "lat": 52.2657599,
-    "lng": 6.7932241,
-    "link": "https://vmh-horeca.nl/aanbod/zeer-goed-draaiend-wokrestaurant-met-bezorg-en-afhaalfunctie-in-het-centrum-van-hengelo/",
+    "link": "https://vmh-horeca.nl/aanbod/multifunctioneel-horeca-en-of-leisure-pand-op-super-a1-locatie-van-maar-liefst-ca-400m%c2%b2/",
     "makelaar": "Horecapachter"
   },
   {
-    "id": "9341",
-    "title": "Dolce Lavazza Koffiebar Patisserie Eindhoven (centrum)",
-    "lat": 51.4795227,
-    "lng": 5.4350539,
-    "link": "https://vmh-horeca.nl/aanbod/koffiebar-patisserie-eindhoven-centrum-2/",
-    "makelaar": "ABéMA"
-  },
-  {
-    "id": "10845",
-    "title": "Restaurant, Bar &#038; Concertzaal in Frankrijk",
-    "lat": 47.2396548,
-    "lng": -2.2788874,
-    "link": "https://vmh-horeca.nl/aanbod/restaurant-bar-concertzaal-in-frankrijk/",
+    "id": "9987",
+    "title": "Kwalitaria/Délifrance in het gezellige en toeristische centrum van Delden",
+    "lat": 52.2624948,
+    "lng": 6.7130856,
+    "link": "https://vmh-horeca.nl/aanbod/kwalitaria-delifrance-in-het-gezellige-en-toeristische-centrum-van-delden/",
     "makelaar": "Horecapachter"
   },
   {
-    "id": "11519",
-    "title": "Kwalitaria te koop in Maarssen | Start jouw eigen horecabedrijf",
-    "lat": 52.144759,
-    "lng": 5.0332437,
-    "link": "https://vmh-horeca.nl/aanbod/start-jouw-kwalitaria-in-maarssen/",
+    "id": "11025",
+    "title": "Grillroom, Pizzeria, Cafetaria op A1-locatie te koop in Lochem",
+    "lat": 52.1622696,
+    "lng": 6.4127289,
+    "link": "https://vmh-horeca.nl/aanbod/grillroom-pizzeria-cafetaria-op-a1-locatie-te-koop-in-lochem/",
+    "makelaar": "Horecapachter"
+  },
+  {
+    "id": "7920",
+    "title": "Prachtig, groot en historisch pand met veel mogelijkheden &#8211; circa 260m2 en ruim terras",
+    "lat": 51.9728359,
+    "lng": 5.7331585,
+    "link": "https://vmh-horeca.nl/aanbod/prachtig-groot-en-historisch-pand-met-veel-mogelijkheden-circa-260m2-en-ruim-terras/",
+    "makelaar": "Horecapachter"
+  },
+  {
+    "id": "11023",
+    "title": "Restaurant te pacht van een hotel in de Franse Alpen",
+    "lat": 45.0923807,
+    "lng": 6.0683611,
+    "link": "https://vmh-horeca.nl/aanbod/restaurant-te-pacht-van-een-hotel-in-de-franse-alpen/",
     "makelaar": "Horecapachter"
   },
   {
@@ -1728,91 +224,451 @@
     "makelaar": "Edens Makelaars"
   },
   {
-    "id": "11176",
-    "title": "Horecapand te huur Jelsum – Voormalig wokrestaurant nabij Leeuwarden",
-    "lat": 53.2375564,
-    "lng": 5.7754562,
-    "link": "https://vmh-horeca.nl/aanbod/casco-horecapand-bekend-als-wokrestaurant-jelsum/",
-    "makelaar": "Edens Makelaars"
-  },
-  {
-    "id": "11543",
-    "title": "Traiteur Doňa Rosa Eindhoven",
-    "lat": 51.4398047,
-    "lng": 5.4580252,
-    "link": "https://vmh-horeca.nl/aanbod/traiteur-dona-rosa-eindhoven-2/",
+    "id": "10999",
+    "title": "Boschdijk 432 Casco Horeca onroerend goed met ruime bovenwoning",
+    "lat": 51.4578727,
+    "lng": 5.4587983,
+    "link": "https://vmh-horeca.nl/aanbod/boschdijk-432-casco-horeca-onroerend-goed-met-ruime-bovenwoning-2/",
     "makelaar": "ABéMA"
   },
   {
-    "id": "9556",
-    "title": "Horecalocatie in het historische centrum van Leeuwarden",
-    "lat": 53.2019655,
-    "lng": 5.7964071,
-    "link": "https://vmh-horeca.nl/aanbod/horecalocatie-in-het-historische-centrum-van-leeuwarden/",
-    "makelaar": "Horecapachter"
-  },
-  {
-    "id": "8961",
-    "title": "Casco horecaruimte Hamont (België)",
-    "lat": 51.238553,
-    "lng": 5.5426165,
-    "link": "https://vmh-horeca.nl/aanbod/casco-horecaruimte-hamont-belgie-2/",
-    "makelaar": "ABéMA"
-  },
-  {
-    "id": "11502",
-    "title": "Eetcafé te koop in Arnhem | Met terras en groeimogelijkheden",
-    "lat": 51.9793058,
-    "lng": 5.9117582,
-    "link": "https://vmh-horeca.nl/aanbod/prachtig-borrrelcafe-eetcafe-restaurant-te-koop-op-een-mooie-zichtlocatie-in-een-populaire-buurt-in-arnhem/",
-    "makelaar": "Horecapachter"
-  },
-  {
-    "id": "8607",
-    "title": "Strandpaviljoen verkopen?",
-    "lat": 51.99785504,
-    "lng": 4.12477975,
-    "link": "https://vmh-horeca.nl/aanbod/strandpaviljoen-verkopen/",
+    "id": "9145",
+    "title": "Dordrecht toplocatie eetcafe op het Scheffersplein",
+    "lat": 51.81516,
+    "lng": 4.667665,
+    "link": "https://vmh-horeca.nl/aanbod/dordrecht-toplocatie-eetcafe-op-het-scheffersplein-2/",
     "makelaar": "MIH"
   },
   {
-    "id": "7500",
-    "title": "Cafetaria ’t Essche Trefpunt Esch met Onroerend Goed",
-    "lat": 51.6113086,
-    "lng": 5.2910559,
-    "link": "https://vmh-horeca.nl/aanbod/ruime-cafetaria-met-bovenwoning-regio-den-bosch-met-o-g/",
-    "makelaar": "ABéMA"
-  },
-  {
-    "id": "11368",
-    "title": "Hardinxveld | casco horecapand met groot terras gelegen aan rivier de Merwede",
-    "lat": 51.8232376,
-    "lng": 4.8395031,
-    "link": "https://vmh-horeca.nl/aanbod/hardinxveld-casco-horecapand-met-groot-terras-gelegen-aan-rivier-de-merwede/",
-    "makelaar": "MIH"
-  },
-  {
-    "id": "9872",
-    "title": "Vlagtwedde : Party Centrum .",
-    "lat": 53.0274789,
-    "lng": 7.1078396,
-    "link": "https://vmh-horeca.nl/aanbod/vlagtwedde-party-centrum/",
-    "makelaar": "Edens Makelaars"
-  },
-  {
-    "id": "7934",
-    "title": "Toplocatie! Circa 450m2 casco horecalocatie met volop mogelijkheden in het uitgaanscentrum van Arnhem",
-    "lat": 51.9825554,
-    "lng": 5.9054792,
-    "link": "https://vmh-horeca.nl/aanbod/prachtig-horecabedrijf-circa-450m2-met-volop-mogelijkheden-in-het-centrum-van-arnhem/",
+    "id": "7959",
+    "title": "Horeca met bowlingbanen op een groot vakantiepark in Overijssel",
+    "lat": 52.5079076,
+    "lng": 6.4425769,
+    "link": "https://vmh-horeca.nl/aanbod/horeca-met-bowlingbanen-te-pacht-op-een-groot-vakantiepark-in-overijssel/",
     "makelaar": "Horecapachter"
   },
   {
-    "id": "7153",
-    "title": "Brownies &#038; DownieS Valkenswaard",
-    "lat": 51.3511517,
-    "lng": 5.4597179,
-    "link": "https://vmh-horeca.nl/aanbod/brownies-downies-valkenswaard/",
+    "id": "8987",
+    "title": "Pizzeria met OG in het centrum",
+    "lat": 52.7862755,
+    "lng": 4.7956938,
+    "link": "https://vmh-horeca.nl/aanbod/pizzeria-met-og-in-het-centrum-3/",
+    "makelaar": "HVAB"
+  },
+  {
+    "id": "9341",
+    "title": "Dolce Lavazza Koffiebar Patisserie Eindhoven (centrum)",
+    "lat": 51.4795227,
+    "lng": 5.4350539,
+    "link": "https://vmh-horeca.nl/aanbod/koffiebar-patisserie-eindhoven-centrum-2/",
+    "makelaar": "ABéMA"
+  },
+  {
+    "id": "11027",
+    "title": "Topkans voor startende ondernemer! Café, Feestcafé pal naast de Korenmarkt",
+    "lat": 51.9820914,
+    "lng": 5.9046634,
+    "link": "https://vmh-horeca.nl/aanbod/topkans-voor-startende-ondernemer-cafe-feestcafe-pal-naast-de-korenmarkt/",
+    "makelaar": "Horecapachter"
+  },
+  {
+    "id": "11148",
+    "title": "Restaurant El Castillo Vlissingen",
+    "lat": 51.441152,
+    "lng": 3.5747,
+    "link": "https://vmh-horeca.nl/aanbod/restaurant-el-castillo-vlissingen/",
+    "makelaar": "Zeeuwse Horeca Zaken"
+  },
+  {
+    "id": "11659",
+    "title": "Karakteristiek restaurant op toplocatie",
+    "lat": 52.6439918,
+    "lng": 5.0520772,
+    "link": "https://vmh-horeca.nl/aanbod/karakteristiek-restaurant-op-toplocatie/",
+    "makelaar": "HVAB"
+  },
+  {
+    "id": "11517",
+    "title": "Winstgevend café met lage huur én bedrijfswoning",
+    "lat": 52.2384865,
+    "lng": 4.7941271,
+    "link": "https://vmh-horeca.nl/aanbod/winstgevend-cafe-met-lage-huur-en-bedrijfswoning-2/",
+    "makelaar": "HVAB"
+  },
+  {
+    "id": "11547",
+    "title": "Eeterij Zeeuwse Jongen Zierikzee",
+    "lat": 51.646758,
+    "lng": 3.918292,
+    "link": "https://vmh-horeca.nl/aanbod/eeterij-zeeuwse-jongen-zierikzee/",
+    "makelaar": "Zeeuwse Horeca Zaken"
+  },
+  {
+    "id": "9577",
+    "title": "Groot-Ammers | te koop heerlijk biljart dart en eetcafe met overdekt verwarmd terras / serre op de dijk.",
+    "lat": 51.922843,
+    "lng": 4.815663,
+    "link": "https://vmh-horeca.nl/aanbod/groot-ammers-te-koop-heerlijk-biljart-dart-en-eetcafe-met-overdekt-verwarmd-terras-serre-aan-de-dijk/",
+    "makelaar": "MIH"
+  },
+  {
+    "id": "11087",
+    "title": "Noordwijk aan zee | horecapand met terras aan de Koningin Wilhelmina Boulevard",
+    "lat": 52.2459024,
+    "lng": 4.4314177,
+    "link": "https://vmh-horeca.nl/aanbod/noordwijk-aan-zee-horecapand-met-terras-aan-de-koningin-wilhelmina-boulevard/",
+    "makelaar": "MIH"
+  },
+  {
+    "id": "7932",
+    "title": "Mooie locatie met afhaalmogelijkheid op het gezellige winkelcentrum de Eglantier met fraai terras",
+    "lat": 52.1959106,
+    "lng": 6.0045096,
+    "link": "https://vmh-horeca.nl/aanbod/mooie-locatie-met-afhaalmogelijkheid-op-het-gezellige-winkelcentrum-de-eglantier-met-fraai-terras/",
+    "makelaar": "Horecapachter"
+  },
+  {
+    "id": "7902",
+    "title": "Horecalocatie in het centrum van Nijmegen",
+    "lat": 51.846688,
+    "lng": 5.8598196,
+    "link": "https://vmh-horeca.nl/aanbod/horecalocatie-in-het-centrum-van-nijmegen/",
+    "makelaar": "Horecapachter"
+  },
+  {
+    "id": "7681",
+    "title": "Almelo | Café",
+    "lat": 52.3539841,
+    "lng": 6.6662254,
+    "link": "https://vmh-horeca.nl/aanbod/almelo-cafe/",
+    "makelaar": "Horecapachter"
+  },
+  {
+    "id": "7725",
+    "title": "Productiekeuken",
+    "lat": 51.9851034,
+    "lng": 5.8987296,
+    "link": "https://vmh-horeca.nl/aanbod/productiekeuken-3/",
+    "makelaar": "Horecapachter"
+  },
+  {
+    "id": "7601",
+    "title": "Horecalocatie te koop gezocht in Utrecht",
+    "lat": 52.0907374,
+    "lng": 5.1214201,
+    "link": "https://vmh-horeca.nl/aanbod/gezocht-horecalocatie-in-utrecht/",
+    "makelaar": "Horecapachter"
+  },
+  {
+    "id": "8619",
+    "title": "Aruba | te koop op One Happy Island Oranjestad",
+    "lat": 12.5221457,
+    "lng": -70.0360049,
+    "link": "https://vmh-horeca.nl/aanbod/aruba-te-koop-op-one-happy-island-oranjestad/",
+    "makelaar": "MIH"
+  },
+  {
+    "id": "9914",
+    "title": "Cafetaria te koop in Dokkum – De Chefs",
+    "lat": 53.3227757,
+    "lng": 6.0090642,
+    "link": "https://vmh-horeca.nl/aanbod/cafetaria-te-koop-in-dokkum-de-chefs/",
+    "makelaar": "Edens Makelaars"
+  },
+  {
+    "id": "7303",
+    "title": "Horecalocatie gezocht in Arnhem | Nieuw horecaconcept",
+    "lat": 51.9851034,
+    "lng": 5.8987296,
+    "link": "https://vmh-horeca.nl/aanbod/gezocht-horecalocatie-in-arnhem/",
+    "makelaar": "Horecapachter"
+  },
+  {
+    "id": "7951",
+    "title": "Toplocatie met prachtig terras te huur op een van de mooiste plekjes aan de Maas",
+    "lat": 51.8197722,
+    "lng": 5.5445639,
+    "link": "https://vmh-horeca.nl/aanbod/toplocatie-met-prachtig-terras-te-huur-op-een-van-de-mooiste-plekjes-aan-de-maas/",
+    "makelaar": "Horecapachter"
+  },
+  {
+    "id": "8454",
+    "title": "Rhenoy |West Betuwe Cafetaria Route88",
+    "lat": 51.8808241,
+    "lng": 5.1508632,
+    "link": "https://vmh-horeca.nl/aanbod/west-betuwe-cafetaria-route88/",
+    "makelaar": "MIH"
+  },
+  {
+    "id": "9525",
+    "title": "Giessenburg | Eetcafe met cafetaria en groot terras plus appartementen. VERKOCHT!",
+    "lat": 51.8487832,
+    "lng": 4.8936716,
+    "link": "https://vmh-horeca.nl/aanbod/giessenburg-eetcafe-met-cafetaria-en-groot-terras-plus-appartementen-2/",
+    "makelaar": "MIH"
+  },
+  {
+    "id": "7819",
+    "title": "Apeldoorn | Horecalocatie",
+    "lat": 52.1954143,
+    "lng": 6.0040013,
+    "link": "https://vmh-horeca.nl/aanbod/apeldoorn-horecalocatie/",
+    "makelaar": "Horecapachter"
+  },
+  {
+    "id": "7203",
+    "title": "Restaurant Oude Stadsgracht/Stratumseind Eindhoven",
+    "lat": 51.4359518,
+    "lng": 5.4822785,
+    "link": "https://vmh-horeca.nl/aanbod/restaurant-oude-stadsgracht-stratumseind-eindhoven/",
+    "makelaar": "ABéMA"
+  },
+  {
+    "id": "9834",
+    "title": "Appelscha: Pannenkoekenrestaurant de Appelsche Hof",
+    "lat": 52.9539328,
+    "lng": 6.3411052,
+    "link": "https://vmh-horeca.nl/aanbod/appelscha-pannenkoekenrestaurant-de-appelsche-hof/",
+    "makelaar": "Edens Makelaars"
+  },
+  {
+    "id": "11627",
+    "title": "Cafetaria/snackbar in centrum",
+    "lat": 52.7872724,
+    "lng": 4.7966326,
+    "link": "https://vmh-horeca.nl/aanbod/cafetaria-snackbar-in-centrum/",
+    "makelaar": "HVAB"
+  },
+  {
+    "id": "8008",
+    "title": "Restaurant met riante bedrijfswoning",
+    "lat": 52.9072449,
+    "lng": 4.9613324,
+    "link": "https://vmh-horeca.nl/aanbod/restaurant-met-bedrijfswoning/",
+    "makelaar": "HVAB"
+  },
+  {
+    "id": "8149",
+    "title": "Hotel met circa 30 kamers in het prachtige Sauerland – Een unieke ondernemerskans",
+    "lat": 51.3973132,
+    "lng": 8.0639216,
+    "link": "https://vmh-horeca.nl/aanbod/hotel-30-kamers-met-stube-en-restaurant-te-koop-in-duitsland/",
+    "makelaar": "Horecapachter"
+  },
+  {
+    "id": "7912",
+    "title": "Horecalocatie in de omgeving van Giethoorn",
+    "lat": 52.7236554,
+    "lng": 6.07747,
+    "link": "https://vmh-horeca.nl/aanbod/horecalocatie-in-de-omgeving-van-giethoorn/",
+    "makelaar": "Horecapachter"
+  },
+  {
+    "id": "10838",
+    "title": "Infinity Dranken Slijterij Nuenen",
+    "lat": 51.4730192,
+    "lng": 5.5462589,
+    "link": "https://vmh-horeca.nl/aanbod/infinity-dranken-slijterij-nuenen-2/",
+    "makelaar": "ABéMA"
+  },
+  {
+    "id": "8621",
+    "title": "Oostenrijk Tirol Niederau | Apre skihut Schnapshutte",
+    "lat": 47.4484298,
+    "lng": 12.0934458,
+    "link": "https://vmh-horeca.nl/aanbod/oostenrijk-tirol-niederau/",
+    "makelaar": "MIH"
+  },
+  {
+    "id": "8050",
+    "title": "Café in de Den Helder",
+    "lat": 52.949644,
+    "lng": 4.7595311,
+    "link": "https://vmh-horeca.nl/aanbod/cafe-met-bedrijfswoning/",
+    "makelaar": "HVAB"
+  },
+  {
+    "id": "9926",
+    "title": "Theater kwartier",
+    "lat": 52.518537,
+    "lng": 5.471422,
+    "link": "https://vmh-horeca.nl/aanbod/theater-kwartier/",
+    "makelaar": "MIH"
+  },
+  {
+    "id": "11098",
+    "title": "Kwalitaria vestiging (franchise) in Purmerend",
+    "lat": 52.4967332,
+    "lng": 4.9384852,
+    "link": "https://vmh-horeca.nl/aanbod/kwalitaria-vestiging-franchise-in-purmerend-2/",
+    "makelaar": "HVAB"
+  },
+  {
+    "id": "11161",
+    "title": "Winkelruimte / shop te huur in Feanwâlden (Veenwouden) – veelzijdige commerciële locatie",
+    "lat": 53.235127,
+    "lng": 5.9867225,
+    "link": "https://vmh-horeca.nl/aanbod/winkelruimte-shop-te-huur-in-feanwalden-veenwouden-veelzijdige-commerciele-locatie-2/",
+    "makelaar": "Edens Makelaars"
+  },
+  {
+    "id": "9812",
+    "title": "Ureterp Friesland: Café It Alde Ste",
+    "lat": 53.0952319,
+    "lng": 6.1731672,
+    "link": "https://vmh-horeca.nl/aanbod/ureterp-friesland-cafe-it-alde-ste/",
+    "makelaar": "Edens Makelaars"
+  },
+  {
+    "id": "7722",
+    "title": "Apeldoorn | Café",
+    "lat": 52.1936338,
+    "lng": 6.004931,
+    "link": "https://vmh-horeca.nl/aanbod/apeldoorn-cafe-2/",
+    "makelaar": "Horecapachter"
+  },
+  {
+    "id": "8492",
+    "title": "Chinees Restaurant Te Koop",
+    "lat": 51.8522596,
+    "lng": 4.8872078,
+    "link": "https://vmh-horeca.nl/aanbod/chinees-aziatisch-restaurant-te-koop/",
+    "makelaar": "MIH"
+  },
+  {
+    "id": "7463",
+    "title": "Cocktailbar Mundial Eindhoven (centrum)",
+    "lat": 51.4367545,
+    "lng": 5.4818923,
+    "link": "https://vmh-horeca.nl/aanbod/cocktailbar-mundial-eindhoven-centrum/",
+    "makelaar": "ABéMA"
+  },
+  {
+    "id": "8557",
+    "title": "Sliedrecht | Cafetaria verkocht aan jachthaven op toplocatie",
+    "lat": 51.8199044,
+    "lng": 4.7704176,
+    "link": "https://vmh-horeca.nl/aanbod/sliedrecht-cafetaria-verkocht-aan-jachthaven-op-toplocatie/",
+    "makelaar": "MIH"
+  },
+  {
+    "id": "11029",
+    "title": "Horecapand met bovenwoning te koop in Appingedam centrum",
+    "lat": 53.320353,
+    "lng": 6.8575527,
+    "link": "https://vmh-horeca.nl/aanbod/casco-horecapand-de-keuken-van-india-appingedam/",
+    "makelaar": "Edens Makelaars"
+  },
+  {
+    "id": "9925",
+    "title": "Ons Plezier Cafetaria",
+    "lat": 51.771621,
+    "lng": 4.446888,
+    "link": "https://vmh-horeca.nl/aanbod/ons-plezier-cafetaria/",
+    "makelaar": "MIH"
+  },
+  {
+    "id": "9868",
+    "title": "Hotel de Waag – Hotel te koop in Makkum",
+    "lat": 53.0556179,
+    "lng": 5.4030812,
+    "link": "https://vmh-horeca.nl/aanbod/hotel-de-waag-hotel-te-koop-in-makkum/",
+    "makelaar": "Edens Makelaars"
+  },
+  {
+    "id": "9910",
+    "title": "Cafetaria te koop in Jistrum – Instapklaar met terras naast sportpark",
+    "lat": 53.210928,
+    "lng": 6.065254,
+    "link": "https://vmh-horeca.nl/aanbod/cafetaria-te-koop-in-jistrum-instapklaar-met-terras-naast-sportpark/",
+    "makelaar": "Edens Makelaars"
+  },
+  {
+    "id": "7260",
+    "title": "Restaurant &#8217;t Kleijn Geluck Son en Breugel",
+    "lat": 51.5101556,
+    "lng": 5.4918839,
+    "link": "https://vmh-horeca.nl/aanbod/restaurant-t-kleijn-geluck-son-en-breugel/",
+    "makelaar": "ABéMA"
+  },
+  {
+    "id": "9934",
+    "title": "Pizzeria te huur in Makkum – Instap klaar horecabedrijf met dakterras",
+    "lat": 53.0552687,
+    "lng": 5.4025422,
+    "link": "https://vmh-horeca.nl/aanbod/te-huur-pizzeria-skyla-mackum/",
+    "makelaar": "Edens Makelaars"
+  },
+  {
+    "id": "7944",
+    "title": "Nieuwe vestiging van Burger Business in Almere Buiten",
+    "lat": 52.393502,
+    "lng": 5.279939,
+    "link": "https://vmh-horeca.nl/aanbod/nieuwe-vestiging-van-burger-business-in-almere-buiten/",
+    "makelaar": "Horecapachter"
+  },
+  {
+    "id": "11582",
+    "title": "Kwalitaria (franchise) in Amsterdam-West",
+    "lat": 52.3701637,
+    "lng": 4.867705,
+    "link": "https://vmh-horeca.nl/aanbod/kwalitaria-franchise-in-amsterdam-west/",
+    "makelaar": "HVAB"
+  },
+  {
+    "id": "11202",
+    "title": "Restaurant Nopal te Vlissingen",
+    "lat": 51.4423,
+    "lng": 3.573,
+    "link": "https://vmh-horeca.nl/aanbod/restaurant-nopal-te-vlissingen/",
+    "makelaar": "Zeeuwse Horeca Zaken"
+  },
+  {
+    "id": "11559",
+    "title": "HCR De Harmonie in Sexbierum te koop – compleet horecabedrijf met hotel en woning",
+    "lat": 53.2172539,
+    "lng": 5.4853167,
+    "link": "https://vmh-horeca.nl/aanbod/hcr-de-harmonie-in-sexbierum-te-koop-compleet-horecabedrijf-met-hotel-en-woning/",
+    "makelaar": "Edens Makelaars"
+  },
+  {
+    "id": "11665",
+    "title": "Restaurant op de Roode Steen in Hoorn",
+    "lat": 52.6389603,
+    "lng": 5.0593321,
+    "link": "https://vmh-horeca.nl/aanbod/restaurant-op-de-roode-steen-in-hoorn/",
+    "makelaar": "HVAB"
+  },
+  {
+    "id": "9650",
+    "title": "Afhaal- en bezorgzaak op goede locatie in Haarlem",
+    "lat": 52.4089445,
+    "lng": 4.650911,
+    "link": "https://vmh-horeca.nl/aanbod/afhaal-en-bezorgzaak-op-goede-locatie-in-haarlem-2/",
+    "makelaar": "HVAB"
+  },
+  {
+    "id": "8044",
+    "title": "Beleggingspand in het centrum",
+    "lat": 52.8359763,
+    "lng": 4.6937636,
+    "link": "https://vmh-horeca.nl/aanbod/beleggingspand-in-het-centrum/",
+    "makelaar": "HVAB"
+  },
+  {
+    "id": "7928",
+    "title": "Lunch- en borrelcafé, restaurant in de omgeving van Nijmegen",
+    "lat": 51.8465931,
+    "lng": 5.8658743,
+    "link": "https://vmh-horeca.nl/aanbod/lunch-en-borrelcafe-restaurant-in-de-omgeving-van-nijmegen/",
+    "makelaar": "Horecapachter"
+  },
+  {
+    "id": "7138",
+    "title": "De Frietaire Eindhoven",
+    "lat": 51.4399121,
+    "lng": 5.4760568,
+    "link": "https://vmh-horeca.nl/aanbod/de-frietaire-eindhoven/",
     "makelaar": "ABéMA"
   },
   {
@@ -1824,44 +680,68 @@
     "makelaar": "ABéMA"
   },
   {
-    "id": "8904",
-    "title": "Horeca te pacht op EuroParcs met jachthaven",
-    "lat": 52.0384112,
-    "lng": 6.1355058,
-    "link": "https://vmh-horeca.nl/aanbod/horeca-te-pacht-op-europarcs-met-jachthaven/",
-    "makelaar": "Horecapachter"
-  },
-  {
-    "id": "9697",
-    "title": "Instapklare cafetaria aan toeristische fietsroute",
-    "lat": 52.743627,
-    "lng": 5.1384677,
-    "link": "https://vmh-horeca.nl/aanbod/instapklare-cafetaria-aan-toeristische-fietsroute-2/",
+    "id": "11662",
+    "title": "",
+    "lat": 52.6389603,
+    "lng": 5.0593321,
+    "link": "https://vmh-horeca.nl/aanbod/11662/",
     "makelaar": "HVAB"
   },
   {
-    "id": "8758",
-    "title": "Sfeervol dorpscafé met groeimogelijkheden",
-    "lat": 52.6714675,
-    "lng": 4.700042,
-    "link": "https://vmh-horeca.nl/aanbod/sfeervol-dorpscafe-met-groeimogelijkheden-2/",
+    "id": "11256",
+    "title": "Grandcafe Plein &#8211; A1 locatie in Emmen",
+    "lat": 52.7829986,
+    "lng": 6.893191,
+    "link": "https://vmh-horeca.nl/aanbod/grandcafe-plein-a1-locatie-in-emmen/",
+    "makelaar": "Edens Makelaars"
+  },
+  {
+    "id": "9514",
+    "title": "Goedlopende afhaal- en bezorgzaak",
+    "lat": 52.3034365,
+    "lng": 4.6972793,
+    "link": "https://vmh-horeca.nl/aanbod/goedlopende-afhaal-en-bezorgzaak-in-hoofddorp/",
     "makelaar": "HVAB"
   },
   {
-    "id": "7804",
-    "title": "Cafetaria met lunchroom op de Veluwe",
-    "lat": 52.3769246,
-    "lng": 5.7839712,
-    "link": "https://vmh-horeca.nl/aanbod/cafetaria-met-lunchroom-op-de-veluwe/",
+    "id": "11341",
+    "title": "Horecalocatie op de Korenmarkt in Arnhem",
+    "lat": 51.982611,
+    "lng": 5.9044975,
+    "link": "https://vmh-horeca.nl/aanbod/horecalocatie-op-de-korenmarkt-in-arnhem/",
     "makelaar": "Horecapachter"
   },
   {
-    "id": "8149",
-    "title": "Hotel met circa 30 kamers in het prachtige Sauerland – Een unieke ondernemerskans",
-    "lat": 51.3973132,
-    "lng": 8.0639216,
-    "link": "https://vmh-horeca.nl/aanbod/hotel-30-kamers-met-stube-en-restaurant-te-koop-in-duitsland/",
+    "id": "7708",
+    "title": "St. Eustatius | Restaurant, Bar &#038; Lounge",
+    "lat": 17.4851117,
+    "lng": -62.95371,
+    "link": "https://vmh-horeca.nl/aanbod/st-eustatius-restaurant-bar-lounge/",
     "makelaar": "Horecapachter"
+  },
+  {
+    "id": "11584",
+    "title": "Unieke horecakans in hartje Arnhem – Café De Buik ter overname!",
+    "lat": 51.9820774,
+    "lng": 5.9043371,
+    "link": "https://vmh-horeca.nl/aanbod/unieke-horecakans-in-hartje-arnhem-cafe-de-buik-ter-overname/",
+    "makelaar": "Horecapachter"
+  },
+  {
+    "id": "10870",
+    "title": "Zoetermeer | ter overname moderne kiosk &#038; onderneming De Smulhoek",
+    "lat": 52.0510126,
+    "lng": 4.5007041,
+    "link": "https://vmh-horeca.nl/aanbod/zoetermeer-ter-overname-moderne-kiosk-onderneming-de-smulhoek/",
+    "makelaar": "MIH"
+  },
+  {
+    "id": "11543",
+    "title": "Traiteur Doňa Rosa Eindhoven",
+    "lat": 51.4398047,
+    "lng": 5.4580252,
+    "link": "https://vmh-horeca.nl/aanbod/traiteur-dona-rosa-eindhoven-2/",
+    "makelaar": "ABéMA"
   },
   {
     "id": "8565",
@@ -1872,11 +752,1147 @@
     "makelaar": "MIH"
   },
   {
+    "id": "8653",
+    "title": "Drechtsteden | Grandcafé / Brasserie met super gezellig groot terras!",
+    "lat": 51.823325646174,
+    "lng": 4.7081173445801,
+    "link": "https://vmh-horeca.nl/aanbod/drechtsteden-grandcafe-brasserie-met-super-gezellig-groot-terras/",
+    "makelaar": "MIH"
+  },
+  {
+    "id": "9572",
+    "title": "Grote horecalocatie van ca. 350m2 tegenover de ingang van Wildlands Adventure Zoo in Emmen",
+    "lat": 52.7833107,
+    "lng": 6.893187,
+    "link": "https://vmh-horeca.nl/aanbod/grote-horecalocatie-van-ca-350m2-tegenover-de-ingang-van-wildlands-adventure-zoo-in-emmen/",
+    "makelaar": "Horecapachter"
+  },
+  {
+    "id": "9908",
+    "title": "Lunchroom ter overname in Leeuwarden centrum",
+    "lat": 53.1989633,
+    "lng": 5.7811961,
+    "link": "https://vmh-horeca.nl/aanbod/lunchroom-ter-overname-in-leeuwarden-centrum/",
+    "makelaar": "Edens Makelaars"
+  },
+  {
+    "id": "11625",
+    "title": "High Tea &#038; Lunch Boutique No 38 Hapert",
+    "lat": 51.3689495,
+    "lng": 5.2520925,
+    "link": "https://vmh-horeca.nl/aanbod/high-tea-lunch-boutique-no-38-hapert/",
+    "makelaar": "HVAB"
+  },
+  {
+    "id": "9697",
+    "title": "Instapklare cafetaria aan toeristische fietsroute",
+    "lat": 52.743627,
+    "lng": 5.1384677,
+    "link": "https://vmh-horeca.nl/aanbod/instapklare-cafetaria-aan-toeristische-fietsroute-2/",
+    "makelaar": "HVAB"
+  },
+  {
+    "id": "8048",
+    "title": "Cafetaria lunchroom in winkelcentrum",
+    "lat": 52.7873054,
+    "lng": 4.7996613,
+    "link": "https://vmh-horeca.nl/aanbod/cafetaria-lunchroom-in-winkelcentrum/",
+    "makelaar": "HVAB"
+  },
+  {
+    "id": "11139",
+    "title": "Eetcafé met ruim terras aan de haven",
+    "lat": 52.7706595,
+    "lng": 5.1073586,
+    "link": "https://vmh-horeca.nl/aanbod/eetcafe-met-ruim-terras-aan-de-haven-2/",
+    "makelaar": "HVAB"
+  },
+  {
+    "id": "8220",
+    "title": "Mooi gelegen cafetaria middenin het centrum op unieke A1 locatie van gezellige Hanzestad",
+    "lat": 52.2518224,
+    "lng": 6.1559959,
+    "link": "https://vmh-horeca.nl/aanbod/mooi-gelegen-cafetaria-middenin-het-centrum-op-unieke-a1-locatie-van-gezellige-hanzestad/",
+    "makelaar": "Horecapachter"
+  },
+  {
+    "id": "9902",
+    "title": "Makkum: Cafetaria/Lunchroom de Halte",
+    "lat": 53.0552606,
+    "lng": 5.4028498,
+    "link": "https://vmh-horeca.nl/aanbod/makkum-cafetaria-lunchroom-de-halte/",
+    "makelaar": "Edens Makelaars"
+  },
+  {
+    "id": "11074",
+    "title": "Charmant boetiekhotel met restaurant en bedrijfswoning te koop in Spanje",
+    "lat": 36.7442514,
+    "lng": -3.9045151,
+    "link": "https://vmh-horeca.nl/aanbod/charmant-boetiekhotel-met-restaurant-en-bedrijfswoning-te-koop-in-spanje/",
+    "makelaar": "Horecapachter"
+  },
+  {
+    "id": "11143",
+    "title": "Caribisch gebied | Exclusieve investeringskans of een uniek kans om dit (jaarrond) goedlopende resort te exploiteren. Ligging op een van de populaire ABC eiland",
+    "lat": 21.4691137,
+    "lng": -78.6568942,
+    "link": "https://vmh-horeca.nl/aanbod/caribisch-gebied-exclusieve-investeringskans-of-een-uniek-kans-om-dit-jaarrond-goedlopende-resort-te-exploiteren-ligging-op-een-van-de-populaire-abc-eiland/",
+    "makelaar": "MIH"
+  },
+  {
+    "id": "8498",
+    "title": "VERKOCHT! Curacao Willemsstad | toplocatie restaurant met seaview uitz",
+    "lat": 12.1038322,
+    "lng": -68.9330531,
+    "link": "https://vmh-horeca.nl/aanbod/verkocht-curacao-willemsstad-toplocatie-restaurant-met-seaview-uitz/",
+    "makelaar": "MIH"
+  },
+  {
+    "id": "11657",
+    "title": "Eetcafé met ruim terras aan de haven",
+    "lat": 52.7706595,
+    "lng": 5.1073586,
+    "link": "https://vmh-horeca.nl/aanbod/eetcafe-met-ruim-terras-aan-de-haven/",
+    "makelaar": "HVAB"
+  },
+  {
+    "id": "9627",
+    "title": "Sushi Express afhaal en bezorgrestaurant Eindhoven",
+    "lat": 51.4430591,
+    "lng": 5.4551131,
+    "link": "https://vmh-horeca.nl/aanbod/sushi-express-afhaal-en-bezorgrestaurant-eindhoven-2/",
+    "makelaar": "ABéMA"
+  },
+  {
+    "id": "6862",
+    "title": "Groot Perceel grond met nieuwbouw woonontwikkelingsmogelijkheden (Ook Horeca)",
+    "lat": 51.4455028,
+    "lng": 6.025765,
+    "link": "https://vmh-horeca.nl/aanbod/groot-perceel-grond-met-nieuwbouw-woonontwikkelingsmogelijkheden-ook-horeca/",
+    "makelaar": "ABéMA"
+  },
+  {
+    "id": "8002",
+    "title": "Horecapand (deels verhuurd) met herontwikkelings- mogelijkheden",
+    "lat": 52.8885318,
+    "lng": 4.8029986,
+    "link": "https://vmh-horeca.nl/aanbod/cafebedrijf-met-terras/",
+    "makelaar": "HVAB"
+  },
+  {
+    "id": "11366",
+    "title": "Restaurant/Noodlebar Issei Eindhoven",
+    "lat": 51.4413629,
+    "lng": 5.4540628,
+    "link": "https://vmh-horeca.nl/aanbod/restaurant-noodlebar-issei-eindhoven-2/",
+    "makelaar": "ABéMA"
+  },
+  {
+    "id": "8615",
+    "title": "Montfoort | pizzeria met bezorgdienst te koop",
+    "lat": 52.04534,
+    "lng": 4.95038,
+    "link": "https://vmh-horeca.nl/aanbod/montfoort-pizzeria-met-bezorgdienst-te-koop/",
+    "makelaar": "MIH"
+  },
+  {
+    "id": "8758",
+    "title": "Sfeervol dorpscafé met groeimogelijkheden",
+    "lat": 52.6714675,
+    "lng": 4.700042,
+    "link": "https://vmh-horeca.nl/aanbod/sfeervol-dorpscafe-met-groeimogelijkheden-2/",
+    "makelaar": "HVAB"
+  },
+  {
+    "id": "11419",
+    "title": "Cafetaria verkopen?",
+    "lat": 51.8137343,
+    "lng": 5.2469059,
+    "link": "https://vmh-horeca.nl/aanbod/cafetaria-verkopen/",
+    "makelaar": "Horecapachter"
+  },
+  {
+    "id": "8136",
+    "title": "Grote productiekeuken / bezorg- &amp; afhaallocatie",
+    "lat": 52.5013763,
+    "lng": 5.0774077,
+    "link": "https://vmh-horeca.nl/aanbod/grote-productiekeuken-bezorg-afhaallocatie-2/",
+    "makelaar": "HVAB"
+  },
+  {
+    "id": "11519",
+    "title": "Kwalitaria te koop in Maarssen | Start jouw eigen horecabedrijf",
+    "lat": 52.144759,
+    "lng": 5.0332437,
+    "link": "https://vmh-horeca.nl/aanbod/start-jouw-kwalitaria-in-maarssen/",
+    "makelaar": "Horecapachter"
+  },
+  {
+    "id": "11489",
+    "title": "Exclusieve horecalocatie met bedrijfswoning en mogelijkheden voor een B&#038;B",
+    "lat": 52.0288417,
+    "lng": 6.3943244,
+    "link": "https://vmh-horeca.nl/aanbod/exclusieve-horecalocatie-met-bedrijfswoning-en-mogelijkheden-voor-een-bb/",
+    "makelaar": "Horecapachter"
+  },
+  {
+    "id": "7433",
+    "title": "Ontwikkelingsperceel Maashees (Leisure)",
+    "lat": 51.5833669,
+    "lng": 6.0204889,
+    "link": "https://vmh-horeca.nl/aanbod/ontwikkelingsperceel-maashees-leisure/",
+    "makelaar": "ABéMA"
+  },
+  {
+    "id": "8609",
+    "title": "Gorinchem | Restaurant aan het water",
+    "lat": 51.8298962,
+    "lng": 4.97632979,
+    "link": "https://vmh-horeca.nl/aanbod/gorinchem-restaurant-aan-het-water/",
+    "makelaar": "MIH"
+  },
+  {
+    "id": "8617",
+    "title": "`Te koop Daytona motorhotel Eifelgebied",
+    "lat": 50.0485862,
+    "lng": 6.1325054,
+    "link": "https://vmh-horeca.nl/aanbod/te-koop-daytona-motorhotel-eifelgebied/",
+    "makelaar": "MIH"
+  },
+  {
+    "id": "11403",
+    "title": "Ammerstol | Bar Eetcafe Aan De Lek",
+    "lat": 51.9250614,
+    "lng": 4.8075848,
+    "link": "https://vmh-horeca.nl/aanbod/ammerstol-bar-eetcafe-aan-de-lek/",
+    "makelaar": "MIH"
+  },
+  {
+    "id": "11017",
+    "title": "Curacao | Willemstad  wijk Parera  &#8211; Sportsbar bij Nederlandse Marinebasis.",
+    "lat": 12.1088438,
+    "lng": -68.9173507,
+    "link": "https://vmh-horeca.nl/aanbod/curacao-willemstad-wijk-parera-sportsbar-bij-nederlandse-marinebasis/",
+    "makelaar": "MIH"
+  },
+  {
+    "id": "9994",
+    "title": "Pizzeria te huur Workum | Terras 60 plaatsen | De Merk",
+    "lat": 52.9794096,
+    "lng": 5.443276,
+    "link": "https://vmh-horeca.nl/aanbod/pizzeria-te-huur-workum-terras-60-plaatsen-de-merk/",
+    "makelaar": "Edens Makelaars"
+  },
+  {
+    "id": "9930",
+    "title": "Restaurant te huur Lemmer aan het water – Overname inventaris",
+    "lat": 52.8449464,
+    "lng": 5.710553,
+    "link": "https://vmh-horeca.nl/aanbod/te-huur-lemmer-cafe-restaurant-centrum/",
+    "makelaar": "Edens Makelaars"
+  },
+  {
+    "id": "9425",
+    "title": "Restaurant Il Colosseo Eindhoven",
+    "lat": 51.4413437,
+    "lng": 5.5016244,
+    "link": "https://vmh-horeca.nl/aanbod/restaurant-il-colosseo-eindhoven-2/",
+    "makelaar": "ABéMA"
+  },
+  {
+    "id": "11368",
+    "title": "Hardinxveld | casco horecapand met groot terras gelegen aan rivier de Merwede",
+    "lat": 51.8232376,
+    "lng": 4.8395031,
+    "link": "https://vmh-horeca.nl/aanbod/hardinxveld-casco-horecapand-met-groot-terras-gelegen-aan-rivier-de-merwede/",
+    "makelaar": "MIH"
+  },
+  {
+    "id": "8145",
+    "title": "Multifunctioneel horeca- en/of leisure pand op super A1 locatie in het centrum van Hengelo van maar liefst ca 1200m2.",
+    "lat": 52.2645258,
+    "lng": 6.7935169,
+    "link": "https://vmh-horeca.nl/aanbod/multifunctioneel-horeca-en-of-leisure-pand-op-super-a1-locatie-in-het-centrum-van-hengelo-van-maar-liefst-ca-1200m2/",
+    "makelaar": "Horecapachter"
+  },
+  {
+    "id": "8072",
+    "title": "Bekende discotheek in de Koog (Texel) met veel mogelijkheden",
+    "lat": 53.099388,
+    "lng": 4.762118,
+    "link": "https://vmh-horeca.nl/aanbod/casco-discotheek-de-toekomst/",
+    "makelaar": "HVAB"
+  },
+  {
+    "id": "9892",
+    "title": "Witmarsum: Onroerend Goed [inventaris cafetaria is verkocht]",
+    "lat": 53.1029435,
+    "lng": 5.4666117,
+    "link": "https://vmh-horeca.nl/aanbod/witmarsum-onroerend-goed-inventaris-cafetaria-is-verkocht/",
+    "makelaar": "Edens Makelaars"
+  },
+  {
+    "id": "9556",
+    "title": "Horecalocatie in het historische centrum van Leeuwarden",
+    "lat": 53.2019655,
+    "lng": 5.7964071,
+    "link": "https://vmh-horeca.nl/aanbod/horecalocatie-in-het-historische-centrum-van-leeuwarden/",
+    "makelaar": "Horecapachter"
+  },
+  {
     "id": "7783",
     "title": "&#8217;t Gooi | Eetcafé, Restaurant",
     "lat": 52.2250295,
     "lng": 5.1802949,
     "link": "https://vmh-horeca.nl/aanbod/t-gooi-eetcafe-restaurant/",
+    "makelaar": "Horecapachter"
+  },
+  {
+    "id": "8006",
+    "title": "Casco Horecaruimte in het centrum",
+    "lat": 52.6690939,
+    "lng": 4.7015827,
+    "link": "https://vmh-horeca.nl/aanbod/casco-horecaruimte-in-het-centrum/",
+    "makelaar": "HVAB"
+  },
+  {
+    "id": "11476",
+    "title": "Restaurant in centrum van Haarlem",
+    "lat": 52.3783472,
+    "lng": 4.6368078,
+    "link": "https://vmh-horeca.nl/aanbod/restaurant-in-centrum-van-haarlem/",
+    "makelaar": "HVAB"
+  },
+  {
+    "id": "9846",
+    "title": "Instapklaar horecabedrijf te koop in Leeuwarden – Doughpamine",
+    "lat": 53.1969994,
+    "lng": 5.7905113,
+    "link": "https://vmh-horeca.nl/aanbod/instapklaar-horecabedrijf-te-koop-in-leeuwarden-doughpamine/",
+    "makelaar": "Edens Makelaars"
+  },
+  {
+    "id": "11386",
+    "title": "Café starten in Arnhem? Horecalocatie nabij Korenmarkt beschikbaar",
+    "lat": 51.981899,
+    "lng": 5.903394,
+    "link": "https://vmh-horeca.nl/aanbod/cafe-starten-in-arnhem-horecalocatie-nabij-korenmarkt-beschikbaar/",
+    "makelaar": "Horecapachter"
+  },
+  {
+    "id": "8014",
+    "title": "Café-Restaurant met terras op Texel",
+    "lat": 53.0983169,
+    "lng": 4.7624122,
+    "link": "https://vmh-horeca.nl/aanbod/cafe-restaurant-met-terras-op-texel/",
+    "makelaar": "HVAB"
+  },
+  {
+    "id": "11539",
+    "title": "High Tea &#038; Lunch Boutique No 38 Hapert",
+    "lat": 51.3689495,
+    "lng": 5.2520925,
+    "link": "https://vmh-horeca.nl/aanbod/high-tea-lunch-boutique-no-38-hapert-2/",
+    "makelaar": "ABéMA"
+  },
+  {
+    "id": "11222",
+    "title": "Rooftopbar/ restaurant Eindhoven centrum (Nieuw te realiseren)",
+    "lat": 51.4394282,
+    "lng": 5.47473,
+    "link": "https://vmh-horeca.nl/aanbod/rooftopbar-restaurant-eindhoven-centrum-nieuw-te-realiseren-2/",
+    "makelaar": "ABéMA"
+  },
+  {
+    "id": "11249",
+    "title": "Lunchroom Tilly Rose",
+    "lat": 51.4426,
+    "lng": 3.5739,
+    "link": "https://vmh-horeca.nl/aanbod/lunchroom-tilly-rose/",
+    "makelaar": "Zeeuwse Horeca Zaken"
+  },
+  {
+    "id": "11244",
+    "title": "Karakteristiek restaurant op toplocatie",
+    "lat": 52.6439918,
+    "lng": 5.0520772,
+    "link": "https://vmh-horeca.nl/aanbod/karakteristiek-restaurant-op-toplocatie-2/",
+    "makelaar": "HVAB"
+  },
+  {
+    "id": "11523",
+    "title": "Compleet nieuwe cafetaria, bezorg- en afhaalrestaurant in Wageningen",
+    "lat": 51.9670322,
+    "lng": 5.6682295,
+    "link": "https://vmh-horeca.nl/aanbod/compleet-nieuwe-cafetaria-bezorg-en-afhaalrestaurant-in-wageningen/",
+    "makelaar": "Horecapachter"
+  },
+  {
+    "id": "7759",
+    "title": "Zwolle | Eetcafé, Grand Café",
+    "lat": 52.5167747,
+    "lng": 6.0830219,
+    "link": "https://vmh-horeca.nl/aanbod/zwolle-eetcafe-grand-cafe/",
+    "makelaar": "Horecapachter"
+  },
+  {
+    "id": "11653",
+    "title": "Recreatiepark en evenementenlocatie &#8211; &#8217;t Wylde Pad",
+    "lat": 53.2443233,
+    "lng": 6.0683089,
+    "link": "https://vmh-horeca.nl/aanbod/recreatiepark-en-evenementenlocatie-t-wylde-pad/",
+    "makelaar": "Edens Makelaars"
+  },
+  {
+    "id": "8623",
+    "title": "Rhenoy | West Betuwe Cafetaria Route88",
+    "lat": 51.8808188,
+    "lng": 5.1508966,
+    "link": "https://vmh-horeca.nl/aanbod/rhenoy-west-betuwe-cafetaria-route88/",
+    "makelaar": "MIH"
+  },
+  {
+    "id": "7947",
+    "title": "Bezorg- en Takeaway restaurant annex lunchroom &#8211; (Deel-)Financiering mogelijk!",
+    "lat": 52.2224399,
+    "lng": 6.8933674,
+    "link": "https://vmh-horeca.nl/aanbod/bezorg-en-takeaway-restaurant-annex-lunchroom-deel-financiering-mogelijk/",
+    "makelaar": "Horecapachter"
+  },
+  {
+    "id": "11233",
+    "title": "Restaurant aan de rand van het centrum in Wageningen &#8211; Lage huur!",
+    "lat": 51.9707718,
+    "lng": 5.6692009,
+    "link": "https://vmh-horeca.nl/aanbod/restaurant-aan-de-rand-van-het-centrum-in-wageningen-lage-huur/",
+    "makelaar": "Horecapachter"
+  },
+  {
+    "id": "11254",
+    "title": "Foodmaster Burgum &#8211; Open deze zomer nog&#8230;..",
+    "lat": 53.1920638,
+    "lng": 5.9923729,
+    "link": "https://vmh-horeca.nl/aanbod/foodmaster-burgum-open-deze-zomer-nog/",
+    "makelaar": "Edens Makelaars"
+  },
+  {
+    "id": "9878",
+    "title": "Viszaak te koop Leeuwarden – Schootstra visspecialist op A1 locatie",
+    "lat": 53.2012334,
+    "lng": 5.7999133,
+    "link": "https://vmh-horeca.nl/aanbod/goedlopende-viszaak-te-koop-in-leeuwarden/",
+    "makelaar": "Edens Makelaars"
+  },
+  {
+    "id": "9160",
+    "title": "Prachtig stijlvol en gezellig ingerichte gastrobar / restaurant met een gezellig terras aan de voorzijde",
+    "lat": 51.9823261,
+    "lng": 5.915172,
+    "link": "https://vmh-horeca.nl/aanbod/prachtig-stijlvol-en-gezellig-ingerichte-gastrobar-restaurant-met-een-gezellig-terras-aan-de-voorzijde/",
+    "makelaar": "Horecapachter"
+  },
+  {
+    "id": "9280",
+    "title": "Prachtige kans met zeer lage huur! 160m2!",
+    "lat": 52.0016788,
+    "lng": 5.9406861,
+    "link": "https://vmh-horeca.nl/aanbod/prachtig-kans-met-zeer-lage-huur/",
+    "makelaar": "Horecapachter"
+  },
+  {
+    "id": "8115",
+    "title": "Keurige cafetaria met ruime woning",
+    "lat": 52.3834452,
+    "lng": 4.6356486,
+    "link": "https://vmh-horeca.nl/aanbod/keurige-cafetaria-met-ruime-woning-2/",
+    "makelaar": "HVAB"
+  },
+  {
+    "id": "8904",
+    "title": "Horeca te pacht op EuroParcs met jachthaven",
+    "lat": 52.0384112,
+    "lng": 6.1355058,
+    "link": "https://vmh-horeca.nl/aanbod/horeca-te-pacht-op-europarcs-met-jachthaven/",
+    "makelaar": "Horecapachter"
+  },
+  {
+    "id": "9141",
+    "title": "Alblasserwaard te koop zeer goedlopend brasserie.",
+    "lat": 51.9253547,
+    "lng": 4.4304234,
+    "link": "https://vmh-horeca.nl/aanbod/alblasserwaard-te-koop-zeer-goedlopend-brasserie-2/",
+    "makelaar": "MIH"
+  },
+  {
+    "id": "7500",
+    "title": "Cafetaria ’t Essche Trefpunt Esch met Onroerend Goed",
+    "lat": 51.6113086,
+    "lng": 5.2910559,
+    "link": "https://vmh-horeca.nl/aanbod/ruime-cafetaria-met-bovenwoning-regio-den-bosch-met-o-g/",
+    "makelaar": "ABéMA"
+  },
+  {
+    "id": "11651",
+    "title": "Frits Snacks Terschelling",
+    "lat": 53.3898535,
+    "lng": 5.3098956,
+    "link": "https://vmh-horeca.nl/aanbod/frits-snacks-terschelling/",
+    "makelaar": "Edens Makelaars"
+  },
+  {
+    "id": "8155",
+    "title": "Mooi prachtig gelegen bistro concept op een mooie locatie in Nijmegen",
+    "lat": 51.8466775,
+    "lng": 5.8657872,
+    "link": "https://vmh-horeca.nl/aanbod/mooi-prachtig-gelegen-bistro-concept-op-een-mooie-locatie-in-nijmegen/",
+    "makelaar": "Horecapachter"
+  },
+  {
+    "id": "7938",
+    "title": "Horeca met campingwinkel te pacht op vakantiepark",
+    "lat": 52.5168245,
+    "lng": 6.413599,
+    "link": "https://vmh-horeca.nl/aanbod/horeca-met-campingwinkel-te-pacht-op-vakantiepark/",
+    "makelaar": "Horecapachter"
+  },
+  {
+    "id": "8462",
+    "title": "Gezocht Pannenkoekrestaurant in bosrijke omgeving!",
+    "lat": 52.0207975,
+    "lng": 4.4937836,
+    "link": "https://vmh-horeca.nl/aanbod/gezocht-pannenkoekrestaurant-in-bosrijke-omgeving/",
+    "makelaar": "MIH"
+  },
+  {
+    "id": "8058",
+    "title": "Lunchroom met bedrijfswoning in middelgrote stad in Noord-Holland",
+    "lat": 52.7599904,
+    "lng": 4.8948295,
+    "link": "https://vmh-horeca.nl/aanbod/lunchroom-met-bb-mogelijkheid/",
+    "makelaar": "HVAB"
+  },
+  {
+    "id": "7153",
+    "title": "Brownies &#038; DownieS Valkenswaard",
+    "lat": 51.3511517,
+    "lng": 5.4597179,
+    "link": "https://vmh-horeca.nl/aanbod/brownies-downies-valkenswaard/",
+    "makelaar": "ABéMA"
+  },
+  {
+    "id": "9985",
+    "title": "Restaurant te koop in Arnhem | Instapklaar aan de Markt",
+    "lat": 51.9782685,
+    "lng": 5.9097943,
+    "link": "https://vmh-horeca.nl/aanbod/toplocatie-instapklaar-en-geschikt-voor-diverse-concepten/",
+    "makelaar": "Horecapachter"
+  },
+  {
+    "id": "8961",
+    "title": "Casco horecaruimte Hamont (België)",
+    "lat": 51.238553,
+    "lng": 5.5426165,
+    "link": "https://vmh-horeca.nl/aanbod/casco-horecaruimte-hamont-belgie-2/",
+    "makelaar": "ABéMA"
+  },
+  {
+    "id": "9592",
+    "title": "Prachtig lunchroom/restaurant/borrelcafé met groot terras",
+    "lat": 52.1398293,
+    "lng": 5.5865037,
+    "link": "https://vmh-horeca.nl/aanbod/prachtig-lunchroom-restaurant-borrelcafe-met-groot-terras/",
+    "makelaar": "Horecapachter"
+  },
+  {
+    "id": "9621",
+    "title": "Restaurant Tramhalte Duizel",
+    "lat": 51.3656548,
+    "lng": 5.2953967,
+    "link": "https://vmh-horeca.nl/aanbod/restaurant-tramhalte-duizel-2/",
+    "makelaar": "ABéMA"
+  },
+  {
+    "id": "9924",
+    "title": "Strandpaviljoen",
+    "lat": 52.0012836,
+    "lng": 4.1670315,
+    "link": "https://vmh-horeca.nl/aanbod/strandpaviljoen/",
+    "makelaar": "MIH"
+  },
+  {
+    "id": "8844",
+    "title": "Mooi gelegen (feest)café",
+    "lat": 52.2517596,
+    "lng": 6.156201,
+    "link": "https://vmh-horeca.nl/aanbod/mooi-gelegen-feestcafe/",
+    "makelaar": "Horecapachter"
+  },
+  {
+    "id": "11163",
+    "title": "Mangerie &#038; B&#038;B Weselo Mol (België)",
+    "lat": 51.1930113,
+    "lng": 5.2052565,
+    "link": "https://vmh-horeca.nl/aanbod/mangerie-bb-weselo-mol-belgie-2/",
+    "makelaar": "ABéMA"
+  },
+  {
+    "id": "7188",
+    "title": "Restaurant gelegen in regio De Kempen",
+    "lat": 51.4795381,
+    "lng": 5.4350362,
+    "link": "https://vmh-horeca.nl/aanbod/restaurant-gelegen-in-regio-de-kempen/",
+    "makelaar": "ABéMA"
+  },
+  {
+    "id": "9238",
+    "title": "Goedlopende en zeer netjes ingerichte cafetaria met terras en zeer ruime bedrijfswoning",
+    "lat": 52.3125083,
+    "lng": 6.9305595,
+    "link": "https://vmh-horeca.nl/aanbod/goedlopende-en-zeer-netjes-ingerichte-cafetaria-met-terras-en-zeer-ruime-bedrijfswoning/",
+    "makelaar": "Horecapachter"
+  },
+  {
+    "id": "11464",
+    "title": "Eetcafe de Moarkswal te Aldtsjerk",
+    "lat": 53.2660453,
+    "lng": 5.8867237,
+    "link": "https://vmh-horeca.nl/aanbod/eetcafe-de-moarkswal-te-aldtsjerk/",
+    "makelaar": "Edens Makelaars"
+  },
+  {
+    "id": "8484",
+    "title": "Montfoort | Pizzeria met terras.",
+    "lat": 50.8547264,
+    "lng": 4.6097805,
+    "link": "https://vmh-horeca.nl/aanbod/montfoort-pizzeria-met-terras/",
+    "makelaar": "MIH"
+  },
+  {
+    "id": "9872",
+    "title": "Vlagtwedde : Party Centrum .",
+    "lat": 53.0274789,
+    "lng": 7.1078396,
+    "link": "https://vmh-horeca.nl/aanbod/vlagtwedde-party-centrum/",
+    "makelaar": "Edens Makelaars"
+  },
+  {
+    "id": "11336",
+    "title": "Horecalocatie te huur in Leeuwarden | Tivoli Nieuwestad",
+    "lat": 53.2008373,
+    "lng": 5.7948652,
+    "link": "https://vmh-horeca.nl/aanbod/horecalocatie-te-huur-in-leeuwarden-tivoli-nieuwestad/",
+    "makelaar": "Edens Makelaars"
+  },
+  {
+    "id": "8040",
+    "title": "Prachtig restaurant met terras",
+    "lat": 52.7863059,
+    "lng": 4.7962374,
+    "link": "https://vmh-horeca.nl/aanbod/restaurant-stiel-met-terras/",
+    "makelaar": "HVAB"
+  },
+  {
+    "id": "11324",
+    "title": "Napolitaanse Pizzeria Cluys West, eventueel met bovenwoning",
+    "lat": 51.53,
+    "lng": 3.4418,
+    "link": "https://vmh-horeca.nl/aanbod/napolitaanse-pizzeria-cluys-west-eventueel-met-bovenwoning/",
+    "makelaar": "Zeeuwse Horeca Zaken"
+  },
+  {
+    "id": "7916",
+    "title": "Casco leisureruimte van 800m2",
+    "lat": 51.9264425,
+    "lng": 6.0757034,
+    "link": "https://vmh-horeca.nl/aanbod/casco-leisureruimte-van-800m2/",
+    "makelaar": "Horecapachter"
+  },
+  {
+    "id": "9818",
+    "title": "Horecabedrijf te koop Harlingen – Lokaal Harlingen Waddenpromenade",
+    "lat": 53.1766213,
+    "lng": 5.413222,
+    "link": "https://vmh-horeca.nl/aanbod/harlingen-lokaal-harlingen/",
+    "makelaar": "Edens Makelaars"
+  },
+  {
+    "id": "9898",
+    "title": "Cafetaria te koop in Ureterp – It Alde Ste &amp; ’t Bôlehûs",
+    "lat": 53.0952319,
+    "lng": 6.1731672,
+    "link": "https://vmh-horeca.nl/aanbod/cafetaria-te-koop-in-ureterp-it-alde-ste-t-bolehus/",
+    "makelaar": "Edens Makelaars"
+  },
+  {
+    "id": "7497",
+    "title": "Unieke ontwikkellocatie nabij de Strabrechtse Heide – Someren (Zuidoost Brabant)",
+    "lat": 51.3871524,
+    "lng": 5.6723233,
+    "link": "https://vmh-horeca.nl/aanbod/2-percelen-grond-t-b-v-horeca-ontwikkeling-nieuwbouw-someren/",
+    "makelaar": "ABéMA"
+  },
+  {
+    "id": "8464",
+    "title": "Duitsland | ik vertrek voor hotel",
+    "lat": 50.283333,
+    "lng": 7.0,
+    "link": "https://vmh-horeca.nl/aanbod/duitsland-ik-vertrek-voor-hotel/",
+    "makelaar": "MIH"
+  },
+  {
+    "id": "10840",
+    "title": "Leiden | Hotspot Central Gastrohome – Unieke horecalocatie tegenover Leiden Centraal",
+    "lat": 52.1648996,
+    "lng": 4.4838292,
+    "link": "https://vmh-horeca.nl/aanbod/leiden-hotspot-central-gastrohome-unieke-horecalocatie-tegenover-leiden-centraal/",
+    "makelaar": "MIH"
+  },
+  {
+    "id": "9814",
+    "title": "Bolsward: Eet en Chauffeurs Café",
+    "lat": 53.0683149,
+    "lng": 5.5069614,
+    "link": "https://vmh-horeca.nl/aanbod/bolsward-eet-chauffeurs-cafe/",
+    "makelaar": "Edens Makelaars"
+  },
+  {
+    "id": "11515",
+    "title": "Sfeervol (feest)café in het centrum",
+    "lat": 52.6389837,
+    "lng": 5.0587484,
+    "link": "https://vmh-horeca.nl/aanbod/sfeervol-feestcafe-in-het-centrum-2/",
+    "makelaar": "HVAB"
+  },
+  {
+    "id": "7878",
+    "title": "Prachtig bedrijf gelegen in het gezellige Nijmegen met groot terras",
+    "lat": 51.8465931,
+    "lng": 5.8658743,
+    "link": "https://vmh-horeca.nl/aanbod/prachtig-bedrijf-gelegen-in-het-gezellige-nijmegen-met-groot-terras/",
+    "makelaar": "Horecapachter"
+  },
+  {
+    "id": "11208",
+    "title": "Te huur Eetcafé De Concurrent",
+    "lat": 51.442,
+    "lng": 3.5738,
+    "link": "https://vmh-horeca.nl/aanbod/te-huur-eetcafe-de-concurrent/",
+    "makelaar": "Zeeuwse Horeca Zaken"
+  },
+  {
+    "id": "7774",
+    "title": "Succesvol eetcafé met bovenwoning in Beekbergen, compleet en instapklaar",
+    "lat": 52.1594886,
+    "lng": 5.9612768,
+    "link": "https://vmh-horeca.nl/aanbod/apeldoorn-eetcafe-met-bedrijfswoning/",
+    "makelaar": "Horecapachter"
+  },
+  {
+    "id": "7359",
+    "title": "Le Marconnes Camping &#8211; Hotel &#8211; Gite &#8211; Restaurant  (Frankrijk)",
+    "lat": 44.839188,
+    "lng": 3.923447,
+    "link": "https://vmh-horeca.nl/aanbod/le-marconnes-camping-hotel-gite-restaurant-frankrijk/",
+    "makelaar": "ABéMA"
+  },
+  {
+    "id": "7469",
+    "title": "Eetcafé / Restaurant / Zaal De Klok Reusel",
+    "lat": 51.3560627,
+    "lng": 5.1429038,
+    "link": "https://vmh-horeca.nl/aanbod/eetcafe-restaurant-zaal-de-klok-reusel/",
+    "makelaar": "ABéMA"
+  },
+  {
+    "id": "7221",
+    "title": "Restaria &#8216;T Pannetje Nederweert",
+    "lat": 51.2829289,
+    "lng": 5.7522557,
+    "link": "https://vmh-horeca.nl/aanbod/restaria-t-pannetje-nederweert/",
+    "makelaar": "ABéMA"
+  },
+  {
+    "id": "8060",
+    "title": "Hotel met appartement, restaurant en woning op Texel",
+    "lat": 53.0256841,
+    "lng": 4.7512915,
+    "link": "https://vmh-horeca.nl/aanbod/hotel-met-restaurant-op-texel/",
+    "makelaar": "HVAB"
+  },
+  {
+    "id": "11384",
+    "title": "Casco Horecaruimte Oisterwijk",
+    "lat": 51.5784925,
+    "lng": 5.1814005,
+    "link": "https://vmh-horeca.nl/aanbod/spare-rib-express-oisterwijk-2/",
+    "makelaar": "ABéMA"
+  },
+  {
+    "id": "7178",
+    "title": "Horeca op prachtige zichtlocatie in Kampen",
+    "lat": 52.56350639999999,
+    "lng": 5.911260200000015,
+    "link": "https://vmh-horeca.nl/aanbod/horeca-op-prachtige-zichtlocatie-in-kampen/",
+    "makelaar": "Horecapachter"
+  },
+  {
+    "id": "9876",
+    "title": "Hotel te koop Ameland – Hotel Restaurant Molenzicht in Nes",
+    "lat": 53.446912,
+    "lng": 5.7747611,
+    "link": "https://vmh-horeca.nl/aanbod/hotel-te-koop-ameland-hotel-restaurant-molenzicht-in-nes/",
+    "makelaar": "Edens Makelaars"
+  },
+  {
+    "id": "9932",
+    "title": "Te huur in Lemmer &#8211; Casco Horecapand met terras a/h water",
+    "lat": 52.8435735,
+    "lng": 5.71135,
+    "link": "https://vmh-horeca.nl/aanbod/te-huur-in-lemmer-casco-horecapand-met-terras-a-h-water/",
+    "makelaar": "Edens Makelaars"
+  },
+  {
+    "id": "7934",
+    "title": "Toplocatie! Circa 450m2 casco horecalocatie met volop mogelijkheden in het uitgaanscentrum van Arnhem",
+    "lat": 51.9825554,
+    "lng": 5.9054792,
+    "link": "https://vmh-horeca.nl/aanbod/prachtig-horecabedrijf-circa-450m2-met-volop-mogelijkheden-in-het-centrum-van-arnhem/",
+    "makelaar": "Horecapachter"
+  },
+  {
+    "id": "7940",
+    "title": "Nieuw te realiseren vestiging van zeer succesvolle bezorg- en afhaalformule Burger Business",
+    "lat": 52.1941001,
+    "lng": 6.0054671,
+    "link": "https://vmh-horeca.nl/aanbod/nieuw-te-realiseren-vestiging-van-zeer-succesvolle-bezorg-en-afhaalformule-burger-business/",
+    "makelaar": "Horecapachter"
+  },
+  {
+    "id": "9816",
+    "title": "Kootstertille: Snackbar &#8217;t Centrum",
+    "lat": 53.2136995,
+    "lng": 6.0952612,
+    "link": "https://vmh-horeca.nl/aanbod/kootstertille-snackbar-t-centrum/",
+    "makelaar": "Edens Makelaars"
+  },
+  {
+    "id": "8603",
+    "title": "Leiden | Lunchroom Délifrance",
+    "lat": 52.1604019,
+    "lng": 4.4942303,
+    "link": "https://vmh-horeca.nl/aanbod/leiden-lunchroom-delifrance/",
+    "makelaar": "MIH"
+  },
+  {
+    "id": "11586",
+    "title": "Drechtsteden | Unieke kans voor startende horecaondernemer",
+    "lat": 51.8216889,
+    "lng": 4.771716,
+    "link": "https://vmh-horeca.nl/aanbod/drechtsteden-unieke-kans-voor-startende-horecaondernemer/",
+    "makelaar": "MIH"
+  },
+  {
+    "id": "8780",
+    "title": "Iconisch horecapand met 3 verdiepingen op de Grote Markt in Almere",
+    "lat": 52.372034,
+    "lng": 5.2181328,
+    "link": "https://vmh-horeca.nl/aanbod/iconisch-horecapand-met-3-verdiepingen-op-de-grote-markt-in-almere-2/",
+    "makelaar": "HVAB"
+  },
+  {
+    "id": "7647",
+    "title": "Frankrijk | Alpe d&#8217;Huez | Restaurant, Pizzeria, Bar",
+    "lat": 45.0549536,
+    "lng": 6.03041,
+    "link": "https://vmh-horeca.nl/aanbod/frankrijk-alpe-dhuez-restaurant-pizzeria-bar/",
+    "makelaar": "Horecapachter"
+  },
+  {
+    "id": "11545",
+    "title": "Te koop: Locaal 39, karaktervol lunchcafé in hartje Middelburg eventueel met bovenwoning",
+    "lat": 51.499328,
+    "lng": 3.6134316,
+    "link": "https://vmh-horeca.nl/aanbod/te-koop-locaal-39-karaktervol-lunchcafe-in-hartje-middelburg/",
+    "makelaar": "Zeeuwse Horeca Zaken"
+  },
+  {
+    "id": "8868",
+    "title": "Horecalocatie in de regio Arnhem &#8211; Nijmegen &#8211; Ede",
+    "lat": 51.9851034,
+    "lng": 5.8987296,
+    "link": "https://vmh-horeca.nl/aanbod/zalencentrum/",
+    "makelaar": "Horecapachter"
+  },
+  {
+    "id": "9551",
+    "title": "Horecapand te huur in het centrum van Haren!",
+    "lat": 53.1723098,
+    "lng": 6.6052498,
+    "link": "https://vmh-horeca.nl/aanbod/horecapand-te-huur-in-het-centrum-van-haren/",
+    "makelaar": "Horecapachter"
+  },
+  {
+    "id": "11529",
+    "title": "Prachtig gelegen restaurant te koop met BOG met veel toekomstmogelijkheden en ruime bedrijfswoning",
+    "lat": 52.0288417,
+    "lng": 6.3943244,
+    "link": "https://vmh-horeca.nl/aanbod/prachtig-gelegen-restaurant-te-koop-met-bog-met-veel-toekomstmogelijkheden-en-ruime-bedrijfswoning/",
+    "makelaar": "Horecapachter"
+  },
+  {
+    "id": "11502",
+    "title": "Eetcafé te koop in Arnhem | Met terras en groeimogelijkheden",
+    "lat": 51.9793058,
+    "lng": 5.9117582,
+    "link": "https://vmh-horeca.nl/aanbod/prachtig-borrrelcafe-eetcafe-restaurant-te-koop-op-een-mooie-zichtlocatie-in-een-populaire-buurt-in-arnhem/",
+    "makelaar": "Horecapachter"
+  },
+  {
+    "id": "9844",
+    "title": "Friesland: Pizzeria",
+    "lat": 53.0966518,
+    "lng": 5.8412375,
+    "link": "https://vmh-horeca.nl/aanbod/friesland-pizzeria/",
+    "makelaar": "Edens Makelaars"
+  },
+  {
+    "id": "11410",
+    "title": "Horecalocatie voor snelgroeiende hamburgerformule in Arnhem",
+    "lat": 51.9793058,
+    "lng": 5.9117582,
+    "link": "https://vmh-horeca.nl/aanbod/horecalocatie-voor-snelgroeiende-hamburgerformule-in-arnhem/",
+    "makelaar": "Horecapachter"
+  },
+  {
+    "id": "11500",
+    "title": "B&amp;B Meerzigt Eastermar &#8211; Wonen en Werken",
+    "lat": 53.1733641,
+    "lng": 6.0558027,
+    "link": "https://vmh-horeca.nl/aanbod/bb-meerzigt-eastermar-wonen-en-werken/",
+    "makelaar": "Edens Makelaars"
+  },
+  {
+    "id": "11405",
+    "title": "Bouw mee aan een succesvolle horecalocatie op een prachtig vakantiepark",
+    "lat": 51.9793058,
+    "lng": 5.9117582,
+    "link": "https://vmh-horeca.nl/aanbod/bouw-mee-aan-een-succesvolle-horecalocatie-op-een-prachtig-vakantiepark/",
+    "makelaar": "Horecapachter"
+  },
+  {
+    "id": "11126",
+    "title": "Bed and Breakfast te koop Marrum – Duurzame B&amp;B in Friesland",
+    "lat": 53.3235375,
+    "lng": 5.800346,
+    "link": "https://vmh-horeca.nl/aanbod/bed-and-breakfast-te-koop-marrum-duurzame-bb-in-friesland-2/",
+    "makelaar": "Edens Makelaars"
+  },
+  {
+    "id": "9890",
+    "title": "Cafetaria / eetcafé te koop in Emmen: Lady’s Burger Beschikbaar tegen een aannemelijk bod",
+    "lat": 52.787207,
+    "lng": 6.895298,
+    "link": "https://vmh-horeca.nl/aanbod/eetcafe-te-koop-in-emmen-ladys-burger-2/",
+    "makelaar": "Edens Makelaars"
+  },
+  {
+    "id": "7771",
+    "title": "Duitsland | Hotel",
+    "lat": 51.165691,
+    "lng": 10.451526,
+    "link": "https://vmh-horeca.nl/aanbod/duitsland-hotel/",
+    "makelaar": "Horecapachter"
+  },
+  {
+    "id": "11649",
+    "title": "Sushi Express afhaal en bezorgrestaurant Eindhoven",
+    "lat": 51.4430591,
+    "lng": 5.4551131,
+    "link": "https://vmh-horeca.nl/aanbod/sushi-express-afhaal-en-bezorgrestaurant-eindhoven/",
+    "makelaar": "HVAB"
+  },
+  {
+    "id": "11100",
+    "title": "Volledig ingerichte horecaruimte",
+    "lat": 52.7693304,
+    "lng": 4.6642562,
+    "link": "https://vmh-horeca.nl/aanbod/volledig-ingerichte-horecaruimte-2/",
+    "makelaar": "HVAB"
+  },
+  {
+    "id": "11226",
+    "title": "Wonen en ondernemen in Frankrijk | Instapklare B&#038;B met gîtes, restaurant, zwembad en ruime privéwoning",
+    "lat": 45.0632447,
+    "lng": 2.4137504,
+    "link": "https://vmh-horeca.nl/aanbod/wonen-en-ondernemen-in-frankrijk-instapklare-bb-met-gites-restaurant-zwembad-en-ruime-privewoning/",
+    "makelaar": "Horecapachter"
+  },
+  {
+    "id": "8062",
+    "title": "Casco-winkelruimte aan de Spoorstraat",
+    "lat": 52.9596956,
+    "lng": 4.7630032,
+    "link": "https://vmh-horeca.nl/aanbod/casco-winkelruimte-aan-de-spoorstraat/",
+    "makelaar": "HVAB"
+  },
+  {
+    "id": "11643",
+    "title": "New York Pizza Heythuysen",
+    "lat": 51.2492073,
+    "lng": 5.8937271,
+    "link": "https://vmh-horeca.nl/aanbod/new-york-pizza-heythuysen/",
+    "makelaar": "HVAB"
+  },
+  {
+    "id": "7942",
+    "title": "Zeer goedlopend horecabedrijf met bezorg- en afhaalfunctie in het centrum van Hengelo",
+    "lat": 52.2657599,
+    "lng": 6.7932241,
+    "link": "https://vmh-horeca.nl/aanbod/zeer-goed-draaiend-wokrestaurant-met-bezorg-en-afhaalfunctie-in-het-centrum-van-hengelo/",
+    "makelaar": "Horecapachter"
+  },
+  {
+    "id": "9730",
+    "title": "Horeca te pacht op vakantiepark net over de grens in Duitsland",
+    "lat": 52.519134,
+    "lng": 6.8733591,
+    "link": "https://vmh-horeca.nl/aanbod/horeca-te-pacht-op-vakantiepark-net-over-de-grens-in-duitsland/",
+    "makelaar": "Horecapachter"
+  },
+  {
+    "id": "9906",
+    "title": "Lunchroom te koop in Dokkum – De Koffiepot",
+    "lat": 53.3266758,
+    "lng": 5.9999223,
+    "link": "https://vmh-horeca.nl/aanbod/lunchroom-te-koop-in-dokkum-de-koffiepot/",
+    "makelaar": "Edens Makelaars"
+  },
+  {
+    "id": "11176",
+    "title": "Horecapand te huur Jelsum – Voormalig wokrestaurant nabij Leeuwarden",
+    "lat": 53.2375564,
+    "lng": 5.7754562,
+    "link": "https://vmh-horeca.nl/aanbod/casco-horecapand-bekend-als-wokrestaurant-jelsum/",
+    "makelaar": "Edens Makelaars"
+  },
+  {
+    "id": "7778",
+    "title": "Duitsland | Hotel in ontwikkeling met 150 kamers, een bungalowpark en een golfbaan",
+    "lat": 51.165691,
+    "lng": 10.451526,
+    "link": "https://vmh-horeca.nl/aanbod/duitsland-hotel-in-ontwikkeling-met-150-kamers-een-bungalowpark-en-een-golfbaan/",
+    "makelaar": "Horecapachter"
+  },
+  {
+    "id": "9594",
+    "title": "Uniek horeca concept op A1-locatie rand Korenmarkt in Arnhem",
+    "lat": 51.9830093,
+    "lng": 5.9047497,
+    "link": "https://vmh-horeca.nl/aanbod/uniek-horeca-concept-op-a1-locatie-rand-korenmarkt-in-arnhem/",
+    "makelaar": "Horecapachter"
+  },
+  {
+    "id": "8667",
+    "title": "Aruba Oranjestad | Horeca ondernemer(ster) gezocht!",
+    "lat": 12.5218057,
+    "lng": -70.0362592,
+    "link": "https://vmh-horeca.nl/aanbod/aruba-oranjestad-horeca-ondernemerster-gezocht/",
+    "makelaar": "MIH"
+  },
+  {
+    "id": "10845",
+    "title": "Restaurant, Bar &#038; Concertzaal in Frankrijk",
+    "lat": 47.2396548,
+    "lng": -2.2788874,
+    "link": "https://vmh-horeca.nl/aanbod/restaurant-bar-concertzaal-in-frankrijk/",
+    "makelaar": "Horecapachter"
+  },
+  {
+    "id": "6804",
+    "title": "Restaurant met woning haven Enkhuizen",
+    "lat": 52.7005298,
+    "lng": 5.2916005,
+    "link": "https://vmh-horeca.nl/aanbod/restaurant-met-woning-haven-enkhuizen/",
+    "makelaar": "HVAB"
+  },
+  {
+    "id": "8607",
+    "title": "Strandpaviljoen verkopen?",
+    "lat": 51.99785504,
+    "lng": 4.12477975,
+    "link": "https://vmh-horeca.nl/aanbod/strandpaviljoen-verkopen/",
+    "makelaar": "MIH"
+  },
+  {
+    "id": "11647",
+    "title": "New York Pizza Heythuysen",
+    "lat": 51.2492073,
+    "lng": 5.8937271,
+    "link": "https://vmh-horeca.nl/aanbod/new-york-pizza-heythuysen-2/",
+    "makelaar": "ABéMA"
+  },
+  {
+    "id": "9886",
+    "title": "Langweer: Brasserie AnderS",
+    "lat": 52.9587161,
+    "lng": 5.7233394,
+    "link": "https://vmh-horeca.nl/aanbod/langweer-brasserie-anders/",
+    "makelaar": "Edens Makelaars"
+  },
+  {
+    "id": "11613",
+    "title": "Ruim horecapand met binnentuin en twee appartementen",
+    "lat": 52.5249106,
+    "lng": 4.7083449,
+    "link": "https://vmh-horeca.nl/aanbod/ruim-horecapand-met-binnentuin-en-twee-appartementen-2/",
+    "makelaar": "HVAB"
+  },
+  {
+    "id": "11212",
+    "title": "Strandpaviljoen Bij Karel te Oostkapelle",
+    "lat": 51.588,
+    "lng": 3.5375,
+    "link": "https://vmh-horeca.nl/aanbod/strandpaviljoen-bij-karel-te-oostkapelle/",
+    "makelaar": "Zeeuwse Horeca Zaken"
+  },
+  {
+    "id": "7487",
+    "title": "Restaurant Spice-Up Eindhoven (Centrum)",
+    "lat": 51.435811,
+    "lng": 5.4830407,
+    "link": "https://vmh-horeca.nl/aanbod/restaurant-spice-up-eindhoven-centrum/",
+    "makelaar": "ABéMA"
+  },
+  {
+    "id": "7804",
+    "title": "Cafetaria met lunchroom op de Veluwe",
+    "lat": 52.3769246,
+    "lng": 5.7839712,
+    "link": "https://vmh-horeca.nl/aanbod/cafetaria-met-lunchroom-op-de-veluwe/",
+    "makelaar": "Horecapachter"
+  },
+  {
+    "id": "7842",
+    "title": "Groot restaurant, 500m2, met speeltuin en zaalverhuur",
+    "lat": 52.4892309,
+    "lng": 6.4240982,
+    "link": "https://vmh-horeca.nl/aanbod/restaurant-pannenkoekenhuis-300m2-minimaal-200-zitplaatsen-en-groot-terras/",
+    "makelaar": "Horecapachter"
+  },
+  {
+    "id": "9290",
+    "title": "Mooi gezellig ingerichte ijssalon, lunchroom met een gezellig terras aan de voorzijde",
+    "lat": 51.9187485,
+    "lng": 5.8456254,
+    "link": "https://vmh-horeca.nl/aanbod/mooi-gezellig-ingerichte-ijssalon-lunchroom-met-een-gezellig-terras-aan-de-voorzijde/",
+    "makelaar": "Horecapachter"
+  },
+  {
+    "id": "7824",
+    "title": "Casco horecalocatie van 800m2",
+    "lat": 51.9264425,
+    "lng": 6.0757034,
+    "link": "https://vmh-horeca.nl/aanbod/casco-horecalocatie-van-800m2/",
     "makelaar": "Horecapachter"
   }
 ]
